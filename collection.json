@@ -1,7 +1,139 @@
 {
  "version": 1,
- "updated": "2026-10-27T09:25:46-07:00",
+ "updated": "2026-10-27T09:27:58-07:00",
  "photos": [
+  {
+   "id": "own-a7465c9381",
+   "url": "https://moquette.github.io/backgrounds/images/own-a7465c9381.jpg",
+   "sha256": "a7465c9381625adb8ff8e241b80342e4943102db987b41ff61c0e321a280e50b",
+   "bytes": 300154,
+   "caption": "Wooden house, Dominican Republic",
+   "credit": "Kevin Olson / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/gw5OPsB1QEo",
+   "added": "2026-10-27-0927",
+   "description": "A weathered green wooden house on a dirt lane."
+  },
+  {
+   "id": "own-3197be59e9",
+   "url": "https://moquette.github.io/backgrounds/images/own-3197be59e9.jpg",
+   "sha256": "3197be59e9e0df27191a7fc2df9e70f99abfbecd78536a545aab01862a7b9bf6",
+   "bytes": 295782,
+   "caption": "Resort pool, Dominican Republic",
+   "credit": "Shawn Lee / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/0sSJMTfLXUI",
+   "added": "2026-10-27-0927",
+   "description": "A winding resort pool with a footbridge and palm trees at dusk."
+  },
+  {
+   "id": "own-5c1a1270e3",
+   "url": "https://moquette.github.io/backgrounds/images/own-5c1a1270e3.jpg",
+   "sha256": "5c1a1270e3578482fb41ac9ee78b4977587b1c13513e5d1e668f2c8e2a366939",
+   "bytes": 189690,
+   "caption": "Pudong skyline at night, Shanghai",
+   "credit": "Javen Yang / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/MWZi4XTIsKA",
+   "added": "2026-10-27-0927",
+   "description": "Shanghai's Pudong towers, the Oriental Pearl among them, lit up over the Huangpu River at night."
+  },
+  {
+   "id": "own-6c9f7205f9",
+   "url": "https://moquette.github.io/backgrounds/images/own-6c9f7205f9.jpg",
+   "sha256": "6c9f7205f9581bac764ac924b1ddfdb17c64f46ce500489d193563cd49862b50",
+   "bytes": 295160,
+   "caption": "Pudong over the Huangpu, Shanghai",
+   "credit": "Li Yang / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/5h_dMuX_7RE",
+   "added": "2026-10-27-0927",
+   "description": "The Oriental Pearl Tower and the Pudong skyline reflected in the Huangpu under an evening sky."
+  },
+  {
+   "id": "own-995ded3cc7",
+   "url": "https://moquette.github.io/backgrounds/images/own-995ded3cc7.jpg",
+   "sha256": "995ded3cc7fc70043252e191bf7c23781724722d93ec46dc9680afd0160c00a1",
+   "bytes": 300902,
+   "caption": "Plitvice Lakes, Croatia",
+   "credit": "Niklas Bischop / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/ZH7ddK24w2k",
+   "added": "2026-10-27-0927",
+   "description": "Waterfalls pouring into a green lake in Plitvice Lakes National Park."
+  },
+  {
+   "id": "own-7dad820174",
+   "url": "https://moquette.github.io/backgrounds/images/own-7dad820174.jpg",
+   "sha256": "7dad820174d40ff6be49af9e1801ab1b266ca9450ac1b74ee047f645d9a2f2e2",
+   "bytes": 285053,
+   "caption": "Palm shore, Dominican Republic",
+   "credit": "Damian Dominguez / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/MKY8KAHQ-p0",
+   "added": "2026-10-27-0927",
+   "description": "Coconut palms leaning over a turquoise Caribbean shore."
+  },
+  {
+   "id": "own-bbe0628fbc",
+   "url": "https://moquette.github.io/backgrounds/images/own-bbe0628fbc.jpg",
+   "sha256": "bbe0628fbc0e47dfb742b58f34ed2412d2df6e3d58083d3d1583503b48c01271",
+   "bytes": 278882,
+   "caption": "Night traffic, New York USA",
+   "credit": "Ryan Loughlin / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/UBXdIv7GSJk",
+   "added": "2026-10-27-0927",
+   "description": "Light trails of night traffic among Midtown Manhattan towers."
+  },
+  {
+   "id": "own-c088f78f71",
+   "url": "https://moquette.github.io/backgrounds/images/own-c088f78f71.jpg",
+   "sha256": "c088f78f718be0bf4c3f6607a623f7dc03b3196811cec57f22dffb34a3e897d1",
+   "bytes": 221867,
+   "caption": "Metal cubes, abstract",
+   "credit": "Shubham Dhage / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/BdV0z8gTIg4",
+   "added": "2026-10-27-0927",
+   "description": "A 3D render of glossy gold and steel cubes."
+  },
+  {
+   "id": "own-88e853bbae",
+   "url": "https://moquette.github.io/backgrounds/images/own-88e853bbae.jpg",
+   "sha256": "88e853bbae8b512a78266f585de1b30311708af01670b31dd5001b8c8490e13d",
+   "bytes": 285309,
+   "caption": "Harbour at dusk, Hong Kong",
+   "credit": "Simon Zhu / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/4hluhoRJokI",
+   "added": "2026-10-27-0927",
+   "description": "Hong Kong's skyline and Victoria Harbour from the Peak at dusk."
+  },
+  {
+   "id": "own-d3628d7327",
+   "url": "https://moquette.github.io/backgrounds/images/own-d3628d7327.jpg",
+   "sha256": "d3628d73273f245e016651ee6183b6f08bdc26334a457d804f5eb0a310b88a35",
+   "bytes": 210386,
+   "caption": "Frosted glass blocks, abstract",
+   "credit": "Nat / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/Qerg85B7JDI",
+   "added": "2026-10-27-0927",
+   "description": "A 3D render of frosted glass blocks."
+  },
+  {
+   "id": "own-437d0ee19b",
+   "url": "https://moquette.github.io/backgrounds/images/own-437d0ee19b.jpg",
+   "sha256": "437d0ee19be4ced339437d6f3d060556269a1897647823208a566645a3708c35",
+   "bytes": 275035,
+   "caption": "Cubist still life, painting",
+   "credit": "Europeana / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/Zwmpl_LztfQ",
+   "added": "2026-10-27-0927",
+   "description": "A Cubist still life in red, green and yellow, from the Europeana collection."
+  },
   {
    "id": "own-e88ce10453",
    "url": "https://moquette.github.io/backgrounds/images/own-e88ce10453.jpg",
@@ -11,7 +143,8 @@
    "credit": "Robert Lukeman / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/zNN6ubHmruI",
-   "added": "2026-10-27-0925"
+   "added": "2026-10-27-0925",
+   "description": "Seljalandsfoss waterfall falling into green fields at sunset."
   },
   {
    "id": "own-800b8eb374",
@@ -22,7 +155,8 @@
    "credit": "Patrick Tomasso / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/SVVTZtTGyaU",
-   "added": "2026-10-27-0925"
+   "added": "2026-10-27-0925",
+   "description": "Lower Manhattan from above, with the Brooklyn Bridge and the East River."
   },
   {
    "id": "own-8387f8ddb2",
@@ -33,7 +167,8 @@
    "credit": "Meg Von Haartman / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/zAdJZZgNogo",
-   "added": "2026-10-27-0924"
+   "added": "2026-10-27-0924",
+   "description": "A turquoise souvenir shop hung with hats and bags on a sunny street."
   },
   {
    "id": "own-b68b2c0c25",
@@ -44,7 +179,8 @@
    "credit": "Meg Von Haartman / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/MieYIaGqeMg",
-   "added": "2026-10-27-0924"
+   "added": "2026-10-27-0924",
+   "description": "A young palm on a sandy beach by a calm turquoise sea."
   },
   {
    "id": "own-07c1b9b5e7",
@@ -55,7 +191,8 @@
    "credit": "Gary Cole / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/dGr89KhNelg",
-   "added": "2026-10-27-0924"
+   "added": "2026-10-27-0924",
+   "description": "A thatched-roof house on a green hill above a flower garden."
   },
   {
    "id": "own-98e9c4a859",
@@ -66,7 +203,8 @@
    "credit": "Dylan Freedom / Unsplash",
    "licence": "Unsplash License",
    "source": "https://unsplash.com/photos/iEgP_YHs-jM",
-   "added": "2026-10-27-0924"
+   "added": "2026-10-27-0924",
+   "description": "The Brooklyn Bridge and Lower Manhattan in black and white, from the Brooklyn shore."
   },
   {
    "id": "5eb620fc70",

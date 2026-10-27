@@ -7,12 +7,23 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 
 ## 1. Credits
 
-- `images/own-e88ce10453.jpg`: Seljalandsfoss waterfall, Iceland, by Robert Lukeman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zNN6ubHmruI
-- `images/own-800b8eb374.jpg`: Manhattan skyline, New York USA, by Patrick Tomasso / Unsplash, Unsplash License. Source: https://unsplash.com/photos/SVVTZtTGyaU
-- `images/own-8387f8ddb2.jpg`: Turquoise souvenir shop, Mexico, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zAdJZZgNogo
-- `images/own-b68b2c0c25.jpg`: Palm beach, Dominican Republic, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MieYIaGqeMg
-- `images/own-07c1b9b5e7.jpg`: Thatched hilltop villa, Fiji, by Gary Cole / Unsplash, Unsplash License. Source: https://unsplash.com/photos/dGr89KhNelg
-- `images/own-98e9c4a859.jpg`: Brooklyn Bridge dusk, New York USA, by Dylan Freedom / Unsplash, Unsplash License. Source: https://unsplash.com/photos/iEgP_YHs-jM
+- `images/own-a7465c9381.jpg`: Wooden house, Dominican Republic, by Kevin Olson / Unsplash, Unsplash License. Source: https://unsplash.com/photos/gw5OPsB1QEo. A weathered green wooden house on a dirt lane.
+- `images/own-3197be59e9.jpg`: Resort pool, Dominican Republic, by Shawn Lee / Unsplash, Unsplash License. Source: https://unsplash.com/photos/0sSJMTfLXUI. A winding resort pool with a footbridge and palm trees at dusk.
+- `images/own-5c1a1270e3.jpg`: Pudong skyline at night, Shanghai, by Javen Yang / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MWZi4XTIsKA. Shanghai's Pudong towers, the Oriental Pearl among them, lit up over the Huangpu River at night.
+- `images/own-6c9f7205f9.jpg`: Pudong over the Huangpu, Shanghai, by Li Yang / Unsplash, Unsplash License. Source: https://unsplash.com/photos/5h_dMuX_7RE. The Oriental Pearl Tower and the Pudong skyline reflected in the Huangpu under an evening sky.
+- `images/own-995ded3cc7.jpg`: Plitvice Lakes, Croatia, by Niklas Bischop / Unsplash, Unsplash License. Source: https://unsplash.com/photos/ZH7ddK24w2k. Waterfalls pouring into a green lake in Plitvice Lakes National Park.
+- `images/own-7dad820174.jpg`: Palm shore, Dominican Republic, by Damian Dominguez / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MKY8KAHQ-p0. Coconut palms leaning over a turquoise Caribbean shore.
+- `images/own-bbe0628fbc.jpg`: Night traffic, New York USA, by Ryan Loughlin / Unsplash, Unsplash License. Source: https://unsplash.com/photos/UBXdIv7GSJk. Light trails of night traffic among Midtown Manhattan towers.
+- `images/own-c088f78f71.jpg`: Metal cubes, abstract, by Shubham Dhage / Unsplash, Unsplash License. Source: https://unsplash.com/photos/BdV0z8gTIg4. A 3D render of glossy gold and steel cubes.
+- `images/own-88e853bbae.jpg`: Harbour at dusk, Hong Kong, by Simon Zhu / Unsplash, Unsplash License. Source: https://unsplash.com/photos/4hluhoRJokI. Hong Kong's skyline and Victoria Harbour from the Peak at dusk.
+- `images/own-d3628d7327.jpg`: Frosted glass blocks, abstract, by Nat / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Qerg85B7JDI. A 3D render of frosted glass blocks.
+- `images/own-437d0ee19b.jpg`: Cubist still life, painting, by Europeana / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Zwmpl_LztfQ. A Cubist still life in red, green and yellow, from the Europeana collection.
+- `images/own-e88ce10453.jpg`: Seljalandsfoss waterfall, Iceland, by Robert Lukeman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zNN6ubHmruI. Seljalandsfoss waterfall falling into green fields at sunset.
+- `images/own-800b8eb374.jpg`: Manhattan skyline, New York USA, by Patrick Tomasso / Unsplash, Unsplash License. Source: https://unsplash.com/photos/SVVTZtTGyaU. Lower Manhattan from above, with the Brooklyn Bridge and the East River.
+- `images/own-8387f8ddb2.jpg`: Turquoise souvenir shop, Mexico, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zAdJZZgNogo. A turquoise souvenir shop hung with hats and bags on a sunny street.
+- `images/own-b68b2c0c25.jpg`: Palm beach, Dominican Republic, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MieYIaGqeMg. A young palm on a sandy beach by a calm turquoise sea.
+- `images/own-07c1b9b5e7.jpg`: Thatched hilltop villa, Fiji, by Gary Cole / Unsplash, Unsplash License. Source: https://unsplash.com/photos/dGr89KhNelg. A thatched-roof house on a green hill above a flower garden.
+- `images/own-98e9c4a859.jpg`: Brooklyn Bridge dusk, New York USA, by Dylan Freedom / Unsplash, Unsplash License. Source: https://unsplash.com/photos/iEgP_YHs-jM. The Brooklyn Bridge and Lower Manhattan in black and white, from the Brooklyn shore.
 - `images/5eb620fc70.jpg`: Evening canal scene, Austria, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2019_-_Urania_am_Abend_am_Donaukanal.jpg
 - `images/4647205d64.jpg`: Stone towers, Russia, by Altushkin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B9.jpg
 - `images/f97c8f39e6.jpg`: Monastery church, Ukraine, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%BD%D0%B0%D0%B4_%D0%9B%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D1%8E_-_2.jpg
