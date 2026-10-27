@@ -120,7 +120,7 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/4a0b52fbb4.jpg`: L'Umbracle, Valencia Spain, by Diliff, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg
 - `images/fd70784987.jpg`: Kuang Si emerald pools, Laos, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_its_emerald_water_pools_in_Luang_Prabang_province_Laos.jpg
 - `images/own-862f598fe9.jpg`: Kuang Si turquoise pool, Laos, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg
-- `images/9e81343db9.jpg`: Cobbled street, Paris France, by Johan Jongkind, Public domain. Source: https://commons.wikimedia.org/wiki/File:Johan_Barthold_Jongkind_-_Rue_Notre-Dame,_Parijs.jpg
+- `images/9e81343db9.jpg`: Cobbled street, Paris, France, by Johan Jongkind, Public domain. Source: https://commons.wikimedia.org/wiki/File:Johan_Barthold_Jongkind_-_Rue_Notre-Dame,_Parijs.jpg
 - `images/e9e18e2c46.jpg`: Umbrella pines landscape, Italy, by Hendrik Voogd, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg
 - `images/27e8bff2bb.jpg`: Storm over peaks, Rockies USA, by Albert Bierstadt, Public domain. Source: https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg
 - `images/9a4d8bde5b.jpg`: Mountain valley fields, India, by This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but..., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Keylong_West_Lahaul_Himachal_Oct22_A7C_03375_panorama.jpg
