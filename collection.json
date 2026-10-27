@@ -1,7 +1,73 @@
 {
  "version": 1,
- "updated": "2026-10-27T08:38:54-07:00",
+ "updated": "2026-10-27T09:25:46-07:00",
  "photos": [
+  {
+   "id": "own-e88ce10453",
+   "url": "https://moquette.github.io/backgrounds/images/own-e88ce10453.jpg",
+   "sha256": "e88ce104532d259223a71e1ae701b72314a1552a4173dc0b82a5eae757fff78b",
+   "bytes": 286289,
+   "caption": "Seljalandsfoss waterfall, Iceland",
+   "credit": "Robert Lukeman / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/zNN6ubHmruI",
+   "added": "2026-10-27-0925"
+  },
+  {
+   "id": "own-800b8eb374",
+   "url": "https://moquette.github.io/backgrounds/images/own-800b8eb374.jpg",
+   "sha256": "800b8eb37491a7e9e813ae70e7b9ac108e06edc6ea6dc8d313f317e30d4996f2",
+   "bytes": 273579,
+   "caption": "Manhattan skyline, New York USA",
+   "credit": "Patrick Tomasso / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/SVVTZtTGyaU",
+   "added": "2026-10-27-0925"
+  },
+  {
+   "id": "own-8387f8ddb2",
+   "url": "https://moquette.github.io/backgrounds/images/own-8387f8ddb2.jpg",
+   "sha256": "8387f8ddb2b1e72948660ab4f8210670715d196d03ecd7f04fedd6ec558dd517",
+   "bytes": 292630,
+   "caption": "Turquoise souvenir shop, Mexico",
+   "credit": "Meg Von Haartman / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/zAdJZZgNogo",
+   "added": "2026-10-27-0924"
+  },
+  {
+   "id": "own-b68b2c0c25",
+   "url": "https://moquette.github.io/backgrounds/images/own-b68b2c0c25.jpg",
+   "sha256": "b68b2c0c25df1ca2abddcdcc055a63730cea9fb9a0eb76039498a13cbfe7d6c2",
+   "bytes": 300745,
+   "caption": "Palm beach, Dominican Republic",
+   "credit": "Meg Von Haartman / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/MieYIaGqeMg",
+   "added": "2026-10-27-0924"
+  },
+  {
+   "id": "own-07c1b9b5e7",
+   "url": "https://moquette.github.io/backgrounds/images/own-07c1b9b5e7.jpg",
+   "sha256": "07c1b9b5e7186692ea2aa3bd9b9a90ab347eb8f770cf0251a7debfa6fe8adb7d",
+   "bytes": 292202,
+   "caption": "Thatched hilltop villa, Fiji",
+   "credit": "Gary Cole / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/dGr89KhNelg",
+   "added": "2026-10-27-0924"
+  },
+  {
+   "id": "own-98e9c4a859",
+   "url": "https://moquette.github.io/backgrounds/images/own-98e9c4a859.jpg",
+   "sha256": "98e9c4a8594bd886502ac939c24ed802decba60ac46c4e0a6452816de23b3211",
+   "bytes": 301143,
+   "caption": "Brooklyn Bridge dusk, New York USA",
+   "credit": "Dylan Freedom / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/iEgP_YHs-jM",
+   "added": "2026-10-27-0924"
+  },
   {
    "id": "5eb620fc70",
    "url": "https://moquette.github.io/backgrounds/images/5eb620fc70.jpg",

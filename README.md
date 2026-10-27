@@ -7,6 +7,12 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 
 ## 1. Credits
 
+- `images/own-e88ce10453.jpg`: Seljalandsfoss waterfall, Iceland, by Robert Lukeman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zNN6ubHmruI
+- `images/own-800b8eb374.jpg`: Manhattan skyline, New York USA, by Patrick Tomasso / Unsplash, Unsplash License. Source: https://unsplash.com/photos/SVVTZtTGyaU
+- `images/own-8387f8ddb2.jpg`: Turquoise souvenir shop, Mexico, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/zAdJZZgNogo
+- `images/own-b68b2c0c25.jpg`: Palm beach, Dominican Republic, by Meg Von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MieYIaGqeMg
+- `images/own-07c1b9b5e7.jpg`: Thatched hilltop villa, Fiji, by Gary Cole / Unsplash, Unsplash License. Source: https://unsplash.com/photos/dGr89KhNelg
+- `images/own-98e9c4a859.jpg`: Brooklyn Bridge dusk, New York USA, by Dylan Freedom / Unsplash, Unsplash License. Source: https://unsplash.com/photos/iEgP_YHs-jM
 - `images/5eb620fc70.jpg`: Evening canal scene, Austria, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2019_-_Urania_am_Abend_am_Donaukanal.jpg
 - `images/4647205d64.jpg`: Stone towers, Russia, by Altushkin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B9.jpg
 - `images/f97c8f39e6.jpg`: Monastery church, Ukraine, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%BD%D0%B0%D0%B4_%D0%9B%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D1%8E_-_2.jpg
