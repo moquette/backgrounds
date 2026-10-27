@@ -107,7 +107,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/617b32589a.jpg`: Amusement park, Sweden, by Arild Vågen, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_June_2015.jpg
 - `images/b452b0cdb9.jpg`: Lakeside water tower, Austria, by Johann Jaritz, CC BY-SA 3.0 at. Source: https://commons.wikimedia.org/wiki/File:Poertschach_Johannes-Brahms-Promenade_Promenadenbad_Rutschenturm_25122015_9840_169crop.jpg
 - `images/bfb62691d2.jpg`: Evening historic street, Denmark, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2018_-_Magstr%C3%A6de_street_in_evening.jpg
-- `images/2b8e515d7e.jpg`: Paddy sunset reflection, Laos, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_and_pink_clouds_reflecting_in_the_water_of_a_paddy_field_at_dusk_in_Don_Det_Laos.jpg
 - `images/40e16083a1.jpg`: Pond reflection, Gyeongju Korea, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Banya_yeonji_pond_water_reflection_of_bridge_and_trees_under_blue_sky_at_Bulguksa_Gyeongju_South_Korea.jpg
 - `images/942f7cd93e.jpg`: Winter dawn peaks, Crimea Ukraine, by Dmytro Balkhovitin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Crimea,_Ai-Petri,_low_clouds.jpg
 - `images/f2e57eb53c.jpg`: Mekong waterfall, Laos, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Khone_Phapheng_Falls,_Si_Phan_Don,_Laos,_widest_waterfall_in_the_world.jpg
