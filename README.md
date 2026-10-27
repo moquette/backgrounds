@@ -7,6 +7,38 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 
 ## 1. Credits
 
+- `images/5f880f10b5.jpg`: Wide beach, Norderney Germany, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Norderney,_Nordsee_am_Oststrand_--_2016_--_5167_(bw)_-_2.jpg
+- `images/e3e026683f.jpg`: Serendipity Beach, Cambodia, by Marcin Konsek, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2016_Sihanoukville,_Pla%C5%BCa_Serendipity_(04).jpg
+- `images/76dc56a96e.jpg`: Calm bay coast, New Zealand, by Krzysztof Golik, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Meybille_Bay_07.jpg
+- `images/3da903c542.jpg`: Lighthouse beach, Brazil, by Kendy Fujita, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_Ilha_do_Mel.jpg
+- `images/0475009f28.jpg`: Rocky beach shore, Portugal, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Martinho_(Madeira,_Portugal),_Praia_Formosa_--_2025_--_0736.jpg
+- `images/fa060eb67f.jpg`: Mangroves on beach, India, by Vyacheslav Argenberg, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg
+- `images/8c9a8c9e58.jpg`: Iriri Beach bay, Brazil, by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:At_Paraty_2023_263.jpg
+- `images/ffbfb54251.jpg`: Miami Beach lifeguard, USA, by Radomianin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg
+- `images/1431f86f19.jpg`: Sea rock formations, Portugal, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheuzinho_und_Ilheus_da_Rib_--_2025_--_1579.jpg
+- `images/bce2fe76f3.jpg`: Calm lake shore, Canada, by Jakub Fryš, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bennett_Lake.jpg
+- `images/d752c16abd.jpg`: Resort beach lagoon, Maldives, by Martin Falbisoner, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas,_May_2017_-02.jpg
+- `images/3de33f064b.jpg`: Coastal headlands, USA, by King of Hearts, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg
+- `images/5c8ab0769f.jpg`: Old fort walls, Puerto Rico, by Godot13, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_10.jpg
+- `images/5ce1f6ea4b.jpg`: Caribbean coast, Cuba, by Óðinn, CC BY-SA 2.5 ca. Source: https://commons.wikimedia.org/wiki/File:Costa_del_mar_Caribe_en_Pil%C3%B3n.jpg
+- `images/dafc413a8a.jpg`: Town plaza, Aruba, by Martin Falbisoner, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Plaza_Daniel_Leo,_Oranjestad,_Aruba_-_February_2020.jpg
+- `images/876b8e92fb.jpg`: Pontoon bridge at dusk, Curacao, by Martin Falbisoner, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Queen_Emma_Bridge_and_Handelskade,_Willemstad,_Cura%C3%A7ao_-_February_2020_-_01.jpg
+- `images/a99899dbc8.jpg`: Church by the sea, Barbados, by Lewis Hulbert, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:St._Lawrence_Church,_St._Lawrence_Gap,_Christ_Church,_Barbados_2.jpg
+- `images/be4f8d4c5d.jpg`: Hillside sign, Los Angeles USA, by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign.jpg
+- `images/4845a481ad.jpg`: Fountain plaza, Los Angeles USA, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4853.jpg
+- `images/c37085cfc1.jpg`: High-rise skyline, Los Angeles USA, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Bunker_Hill,_South_Grand_Avenue_--_2012_--_5263-5.jpg
+- `images/232218b5d6.jpg`: Long Island skyline, USA, by King of Hearts, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg
+- `images/821c2d9755.jpg`: Canary Wharf towers, UK, by King of Hearts, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg
+- `images/fba61954a5.jpg`: Mountain village valley, Spain, by Trougnouf (Benoit Brummer), CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Capileira_seen_from_the_Sulayr_Trail_(DSCF5861).jpg
+- `images/500abd96f9.jpg`: Hillside old town, Albania, by Steffen Schmitz (more photos), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Himara,_Dh%C3%ABrmi,_2024-10_CN-03.jpg
+- `images/dadf65e7f4.jpg`: City skyline view, Colombia, by Steffen Schmitz (more photos), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bogot%C3%A1,_Santa_Fe,_2023-06_CN-02.jpg
+- `images/64406349e7.jpg`: Alpine city panorama, Germany, by Flocci Nivis, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:20201231_Fr%C3%B6ttmaninger_Berg_06.jpg
+- `images/ade33d3d1e.jpg`: Blue hour old town, South Korea, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
+- `images/f649a96480.jpg`: Riverside towers reflected, USA, by King of Hearts, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Charles_River_Esplanade_Boston_May_2018_panorama.jpg
+- `images/5059624ac4.jpg`: Moon over city, USA, by Rufustelestrat, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Moon_Monster2.jpg
+- `images/7400e1ec49.jpg`: Lakeside old town, Switzerland, by NOTE: This image is a panorama consisting of multiple frames that were merged..., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:CH.ZG.Zug_View_from_Guggi_01_16x9%2BR_8192x4608_Br058_gp_denoising_Br075.jpg
+- `images/a68c4d9711.jpg`: Old town skyline, Germany, by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2012-04.jpg
+- `images/683d00af35.jpg`: Winter church and harbor, Sweden, by ThibautRe, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:H%C3%B6galidskyrkan_in_winter_(2024).jpg
 - `images/own-a7465c9381.jpg`: Wooden house, Dominican Republic, by Kevin Olson / Unsplash, Unsplash License. Source: https://unsplash.com/photos/gw5OPsB1QEo. A weathered green wooden house on a dirt lane.
 - `images/own-3197be59e9.jpg`: Resort pool, Dominican Republic, by Shawn Lee / Unsplash, Unsplash License. Source: https://unsplash.com/photos/0sSJMTfLXUI. A winding resort pool with a footbridge and palm trees at dusk.
 - `images/own-5c1a1270e3.jpg`: Pudong skyline at night, Shanghai, by Javen Yang / Unsplash, Unsplash License. Source: https://unsplash.com/photos/MWZi4XTIsKA. Shanghai's Pudong towers, the Oriental Pearl among them, lit up over the Huangpu River at night.
