@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-27T16:35:05-07:00",
+ "updated": "2026-10-27T16:35:13-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -759,17 +759,6 @@
    "credit": "Steffen Schmitz (more photos)",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1,_Santa_Fe,_2023-06_CN-02.jpg",
-   "added": "2026-10-27-1430"
-  },
-  {
-   "id": "64406349e7",
-   "url": "https://moquette.github.io/backgrounds/images/64406349e7.jpg",
-   "sha256": "947543fa4991f595eb7d232328efa88e27e48237265376a32cb88cc96d0001d7",
-   "bytes": 264273,
-   "caption": "Alpine city panorama, Germany",
-   "credit": "Flocci Nivis",
-   "licence": "CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:20201231_Fr%C3%B6ttmaninger_Berg_06.jpg",
    "added": "2026-10-27-1430"
   },
   {

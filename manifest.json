@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-27T16:35:05-07:00",
+ "updated": "2026-10-27T16:35:13-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -421,17 +421,6 @@
    "added": "2026-10-27-1440"
   },
   {
-   "id": "own-962e0d120a",
-   "url": "https://moquette.github.io/backgrounds/images/own-962e0d120a.jpg",
-   "sha256": "962e0d120adfbcf374094bf7e0b99794a0f353b00af5e4c8677590e9b433a006",
-   "bytes": 289275,
-   "caption": "Beach town, Laguna Beach",
-   "credit": "Richard Eddy / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/4zFFnWJa6po",
-   "added": "2026-10-27-1440"
-  },
-  {
    "id": "5f880f10b5",
    "url": "https://moquette.github.io/backgrounds/images/5f880f10b5.jpg",
    "sha256": "f0e8d7b1a3e693c60f577acf50ca15d6d9ebb6173190e8966972eeaa80ae2ce8",
@@ -462,17 +451,6 @@
    "credit": "Photograph by Mike Peel (www.mikepeel.net).",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:At_Paraty_2023_263.jpg",
-   "added": "2026-10-27-1431"
-  },
-  {
-   "id": "bce2fe76f3",
-   "url": "https://moquette.github.io/backgrounds/images/bce2fe76f3.jpg",
-   "sha256": "ad172ecc4d7e073b89220ef083488f6079f6163b46bf0cf56f53d060569aee18",
-   "bytes": 270151,
-   "caption": "Calm lake shore, Canada",
-   "credit": "Jakub Fryš",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bennett_Lake.jpg",
    "added": "2026-10-27-1431"
   },
   {
@@ -520,14 +498,14 @@
    "added": "2026-10-27-1431"
   },
   {
-   "id": "64406349e7",
-   "url": "https://moquette.github.io/backgrounds/images/64406349e7.jpg",
-   "sha256": "947543fa4991f595eb7d232328efa88e27e48237265376a32cb88cc96d0001d7",
-   "bytes": 264273,
-   "caption": "Alpine city panorama, Germany",
-   "credit": "Flocci Nivis",
-   "licence": "CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:20201231_Fr%C3%B6ttmaninger_Berg_06.jpg",
+   "id": "ade33d3d1e",
+   "url": "https://moquette.github.io/backgrounds/images/ade33d3d1e.jpg",
+   "sha256": "adc22754bc15d00512bbabf7717cc39da546ae71443cc9175afddef10e476d70",
+   "bytes": 282137,
+   "caption": "Blue hour old town, South Korea",
+   "credit": "Basile Morin",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
    "added": "2026-10-27-1430"
   },
   {
@@ -542,16 +520,15 @@
    "added": "2026-10-27-1430"
   },
   {
-   "id": "own-a7465c9381",
-   "url": "https://moquette.github.io/backgrounds/images/own-a7465c9381.jpg",
-   "sha256": "a7465c9381625adb8ff8e241b80342e4943102db987b41ff61c0e321a280e50b",
-   "bytes": 300154,
-   "caption": "Wooden house, Dominican Republic",
-   "credit": "Kevin Olson / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/gw5OPsB1QEo",
-   "added": "2026-10-27-0927",
-   "description": "A weathered green wooden house on a dirt lane."
+   "id": "5059624ac4",
+   "url": "https://moquette.github.io/backgrounds/images/5059624ac4.jpg",
+   "sha256": "84d06a3089aa96237156a65c11995e4ff859fe18ddbd3d87194991921c07b889",
+   "bytes": 265686,
+   "caption": "Moon over city, USA",
+   "credit": "Rufustelestrat",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_Monster2.jpg",
+   "added": "2026-10-27-1430"
   },
   {
    "id": "own-3197be59e9",
@@ -566,39 +543,40 @@
    "description": "A winding resort pool with a footbridge and palm trees at dusk."
   },
   {
-   "id": "own-d3628d7327",
-   "url": "https://moquette.github.io/backgrounds/images/own-d3628d7327.jpg",
-   "sha256": "d3628d73273f245e016651ee6183b6f08bdc26334a457d804f5eb0a310b88a35",
-   "bytes": 210386,
-   "caption": "Frosted glass blocks, abstract",
-   "credit": "Nat / Unsplash",
+   "id": "own-5c1a1270e3",
+   "url": "https://moquette.github.io/backgrounds/images/own-5c1a1270e3.jpg",
+   "sha256": "5c1a1270e3578482fb41ac9ee78b4977587b1c13513e5d1e668f2c8e2a366939",
+   "bytes": 189690,
+   "caption": "Pudong skyline at night, Shanghai",
+   "credit": "Javen Yang / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/Qerg85B7JDI",
+   "source": "https://unsplash.com/photos/MWZi4XTIsKA",
    "added": "2026-10-27-0927",
-   "description": "A 3D render of frosted glass blocks."
+   "description": "Shanghai's Pudong towers, the Oriental Pearl among them, lit up over the Huangpu River at night."
   },
   {
-   "id": "own-8387f8ddb2",
-   "url": "https://moquette.github.io/backgrounds/images/own-8387f8ddb2.jpg",
-   "sha256": "8387f8ddb2b1e72948660ab4f8210670715d196d03ecd7f04fedd6ec558dd517",
-   "bytes": 292630,
-   "caption": "Turquoise shop, Dominican Republic",
+   "id": "own-437d0ee19b",
+   "url": "https://moquette.github.io/backgrounds/images/own-437d0ee19b.jpg",
+   "sha256": "437d0ee19be4ced339437d6f3d060556269a1897647823208a566645a3708c35",
+   "bytes": 275035,
+   "caption": "Cubist still life, painting",
+   "credit": "Europeana / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/Zwmpl_LztfQ",
+   "added": "2026-10-27-0927",
+   "description": "A Cubist still life in red, green and yellow, from the Europeana collection."
+  },
+  {
+   "id": "own-b68b2c0c25",
+   "url": "https://moquette.github.io/backgrounds/images/own-b68b2c0c25.jpg",
+   "sha256": "b68b2c0c25df1ca2abddcdcc055a63730cea9fb9a0eb76039498a13cbfe7d6c2",
+   "bytes": 300745,
+   "caption": "Palm beach, Dominican Republic",
    "credit": "Meg Von Haartman / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/zAdJZZgNogo",
+   "source": "https://unsplash.com/photos/MieYIaGqeMg",
    "added": "2026-10-27-0924",
-   "description": "A turquoise souvenir shop hung with hats and bags on a sunny street."
-  },
-  {
-   "id": "4647205d64",
-   "url": "https://moquette.github.io/backgrounds/images/4647205d64.jpg",
-   "sha256": "4e54f68c20a2c5f27740c7e74d0310b352d15af5ae5876e9f00409165cf3d780",
-   "bytes": 295966,
-   "caption": "Stone towers, Russia",
-   "credit": "Altushkin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B9.jpg",
-   "added": "2026-10-27-0834"
+   "description": "A young palm on a sandy beach by a calm turquoise sea."
   },
   {
    "id": "0ec52aa797",
@@ -612,36 +590,36 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "617b32589a",
-   "url": "https://moquette.github.io/backgrounds/images/617b32589a.jpg",
-   "sha256": "f70e5a93d8b840a41a995a0a34de1400f8e4f4f562f39ed4b7b6962b5aa71e8c",
-   "bytes": 272195,
-   "caption": "Amusement park, Sweden",
-   "credit": "Arild Vågen",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_June_2015.jpg",
+   "id": "54b1549b84",
+   "url": "https://moquette.github.io/backgrounds/images/54b1549b84.jpg",
+   "sha256": "a5edf520c9b2b2d18d93b4e92bc9aca74c9a77f7c1ef8b06faad77fa440c6a23",
+   "bytes": 300553,
+   "caption": "Lakeside neon dusk, Denmark",
+   "credit": "Kristoffer Trolle from Copenhagen, Denmark",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cityscape_and_skyline_by_the_Copenhagen_Lakes,_Denmark_-_(36018109956).jpg",
    "added": "2026-10-27-0834"
   },
   {
-   "id": "40e16083a1",
-   "url": "https://moquette.github.io/backgrounds/images/40e16083a1.jpg",
-   "sha256": "a421f5c1dc0b9a303a8c0f932b917a0541631ed5abd85b4e031e891972a30970",
-   "bytes": 294083,
-   "caption": "Pond reflection, Gyeongju Korea",
-   "credit": "Basile Morin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Banya_yeonji_pond_water_reflection_of_bridge_and_trees_under_blue_sky_at_Bulguksa_Gyeongju_South_Korea.jpg",
+   "id": "b452b0cdb9",
+   "url": "https://moquette.github.io/backgrounds/images/b452b0cdb9.jpg",
+   "sha256": "ec65fac896c752c0884df001a3989d2f63096bd5e3b14feef256080f84bc8319",
+   "bytes": 254302,
+   "caption": "Lakeside water tower, Austria",
+   "credit": "Johann Jaritz",
+   "licence": "CC BY-SA 3.0 at",
+   "source": "https://commons.wikimedia.org/wiki/File:Poertschach_Johannes-Brahms-Promenade_Promenadenbad_Rutschenturm_25122015_9840_169crop.jpg",
    "added": "2026-10-27-0834"
   },
   {
-   "id": "f2e57eb53c",
-   "url": "https://moquette.github.io/backgrounds/images/f2e57eb53c.jpg",
-   "sha256": "2cfd9cdcf8187243bd0106cde6c08ee2cdc3532787a946ca7e9fded5bb3b2de7",
-   "bytes": 286864,
-   "caption": "Mekong waterfall, Laos",
-   "credit": "Basile Morin",
+   "id": "942f7cd93e",
+   "url": "https://moquette.github.io/backgrounds/images/942f7cd93e.jpg",
+   "sha256": "bf051b8c7b97a574a99a2e30f6454333f702aae728c43bc29925e11077fa5c03",
+   "bytes": 285799,
+   "caption": "Winter dawn peaks, Crimea Ukraine",
+   "credit": "Dmytro Balkhovitin",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Khone_Phapheng_Falls,_Si_Phan_Don,_Laos,_widest_waterfall_in_the_world.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Crimea,_Ai-Petri,_low_clouds.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -689,17 +667,6 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "4a0b52fbb4",
-   "url": "https://moquette.github.io/backgrounds/images/4a0b52fbb4.jpg",
-   "sha256": "0484b392c0369d0c6eb5a11e257e63569be5c8718735b47fb65258883dd646d6",
-   "bytes": 297283,
-   "caption": "L'Umbracle, Valencia Spain",
-   "credit": "Diliff",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
    "id": "fd70784987",
    "url": "https://moquette.github.io/backgrounds/images/fd70784987.jpg",
    "sha256": "caa14f8a61a08e420e7d8023a30d411ad1c86761baae5ef13a8e12cc4540b3df",
@@ -733,15 +700,37 @@
    "added": "2026-10-27-0650"
   },
   {
-   "id": "b3c6f1fa97",
-   "url": "https://moquette.github.io/backgrounds/images/b3c6f1fa97.jpg",
-   "sha256": "dc43cf16353153bb73858ec0110238f19a3d203d927f63fb816cf7d677b45bd8",
-   "bytes": 296494,
-   "caption": "Riverside village, India",
-   "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
+   "id": "536e7f6fc5",
+   "url": "https://moquette.github.io/backgrounds/images/536e7f6fc5.jpg",
+   "sha256": "7daf0ad671b6e2923c17c7b2cb121aecd9a7338bd4615398f9b110e2166afc3b",
+   "bytes": 283093,
+   "caption": "Arid mountain fields, India",
+   "credit": "Timothy A. Gonsalves",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kardang_West_Lahaul_Himachal_Oct22_A7C_03376.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:NW_Yugar_Fields_Phu_Nala_Zanskar_Jun24_A7CR_00465.jpg",
    "added": "2026-10-27-0649"
+  },
+  {
+   "id": "e78816ce50",
+   "url": "https://moquette.github.io/backgrounds/images/e78816ce50.jpg",
+   "sha256": "5272739c61136636e80acbe14db429ef0cdb5d169e1442532c58578aab1214a0",
+   "bytes": 283479,
+   "caption": "Terraced hill villages, India",
+   "credit": "Timothy A. Gonsalves",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
+   "added": "2026-10-27-0649"
+  },
+  {
+   "id": "03bf16fa34",
+   "url": "https://moquette.github.io/backgrounds/images/03bf16fa34.jpg",
+   "sha256": "8807ad1ac80e9b856b5a962869e9176e5ef775d09f72b2e88864a52f114fc861",
+   "bytes": 287298,
+   "caption": "Atomium sphere, Brussels Belgium",
+   "credit": "Trougnouf (Benoit Brummer)",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg",
+   "added": "2026-10-27-0648"
   },
   {
    "id": "794070b767",
@@ -786,6 +775,17 @@
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Belcastel_4.jpg",
    "added": "2026-10-27-0647"
+  },
+  {
+   "id": "e114d9b3e4",
+   "url": "https://moquette.github.io/backgrounds/images/e114d9b3e4.jpg",
+   "sha256": "0f34a8b14be8327a2e819258dcf2839eed039f52c30df49b218df5cd7510a78f",
+   "bytes": 277093,
+   "caption": "Reservoir dam, England",
+   "credit": "Kreuzschnabel",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2014_Scar_House_Reservoir_Dam.jpg",
+   "added": "2026-10-27-0645"
   },
   {
    "id": "0ffc396e0f",

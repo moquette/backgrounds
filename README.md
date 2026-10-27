@@ -76,7 +76,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/fba61954a5.jpg`: Mountain village valley, Spain, by Trougnouf (Benoit Brummer), CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Capileira_seen_from_the_Sulayr_Trail_(DSCF5861).jpg
 - `images/500abd96f9.jpg`: Hillside old town, Albania, by Steffen Schmitz (more photos), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Himara,_Dh%C3%ABrmi,_2024-10_CN-03.jpg
 - `images/dadf65e7f4.jpg`: City skyline view, Colombia, by Steffen Schmitz (more photos), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bogot%C3%A1,_Santa_Fe,_2023-06_CN-02.jpg
-- `images/64406349e7.jpg`: Alpine city panorama, Germany, by Flocci Nivis, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:20201231_Fr%C3%B6ttmaninger_Berg_06.jpg
 - `images/ade33d3d1e.jpg`: Blue hour old town, South Korea, by Basile Morin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
 - `images/f649a96480.jpg`: Riverside towers reflected, USA, by King of Hearts, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Charles_River_Esplanade_Boston_May_2018_panorama.jpg
 - `images/5059624ac4.jpg`: Moon over city, USA, by Rufustelestrat, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Moon_Monster2.jpg
