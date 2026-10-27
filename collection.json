@@ -1,7 +1,106 @@
 {
  "version": 1,
- "updated": "2026-10-27T14:40:35-07:00",
+ "updated": "2026-10-27T15:47:49-07:00",
  "photos": [
+  {
+   "id": "own-e22f102b63",
+   "url": "https://moquette.github.io/backgrounds/images/own-e22f102b63.jpg",
+   "sha256": "e22f102b6339dd4956fe4f8f452594c611a50ceb8c27ed52b046b70df049e602",
+   "bytes": 273279,
+   "caption": "Sunset, Rincon, Puerto Rico",
+   "credit": "Harry Gillen / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/rrBTb3zj8Zs",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-9f26fe1847",
+   "url": "https://moquette.github.io/backgrounds/images/own-9f26fe1847.jpg",
+   "sha256": "9f26fe1847b8e2788199d508ef608c08e668caa57e6730b601dc4d8ac89311dc",
+   "bytes": 260814,
+   "caption": "Flag door, Old San Juan",
+   "credit": "Nils Huenerfuerst / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/vAh6pGq07h0",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-c24eb2058a",
+   "url": "https://moquette.github.io/backgrounds/images/own-c24eb2058a.jpg",
+   "sha256": "c24eb2058af63eae464ea5e774055fa6120ff76a4e6a55be99b5f459a45dd0fa",
+   "bytes": 304542,
+   "caption": "City walls, Old San Juan",
+   "credit": "Ovidio Soto / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/OqEZLEZ_OuE",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-9e80ddaafd",
+   "url": "https://moquette.github.io/backgrounds/images/own-9e80ddaafd.jpg",
+   "sha256": "9e80ddaafd14338af76eedbaae5641c9cd932a9ca9769566b16e90060259d348",
+   "bytes": 273660,
+   "caption": "Blue cobblestones, Viejo San Juan",
+   "credit": "Laura Michalski / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/ywxVFOQu9Qc",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-1aba59a007",
+   "url": "https://moquette.github.io/backgrounds/images/own-1aba59a007.jpg",
+   "sha256": "1aba59a007160584fcdaed33692549e6b959e9ad776bfd8e8fbd474ed478c59c",
+   "bytes": 289930,
+   "caption": "Colorful street, Old San Juan",
+   "credit": "Jaime Correas / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/oCgDiOm6sh0",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-1ce35deb5a",
+   "url": "https://moquette.github.io/backgrounds/images/own-1ce35deb5a.jpg",
+   "sha256": "1ce35deb5ab8938cdd989e9357606ad8ff16a1bc8a1485d0f7109eb87d65bb95",
+   "bytes": 305585,
+   "caption": "Serrallés gardens, Ponce",
+   "credit": "Eric Ardito / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/ck3mKasU18k",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-68ef5f7649",
+   "url": "https://moquette.github.io/backgrounds/images/own-68ef5f7649.jpg",
+   "sha256": "68ef5f7649f827b6be3e8bb9f007c74d2517a15a45c677d906b382d58edecd85",
+   "bytes": 276865,
+   "caption": "Colorful alley, Old San Juan",
+   "credit": "LARAM / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/u58G3l58dig",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-27e5f656dc",
+   "url": "https://moquette.github.io/backgrounds/images/own-27e5f656dc.jpg",
+   "sha256": "27e5f656dc6c687c3b8710d4d85f855f2d74077354af50d084b6dcac77a3eb06",
+   "bytes": 198020,
+   "caption": "Magdalena cemetery, Old San Juan",
+   "credit": "Kimberly Coneo / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/Z0MhD0WGVhI",
+   "added": "2026-10-27-1547"
+  },
+  {
+   "id": "own-6a87fc77b5",
+   "url": "https://moquette.github.io/backgrounds/images/own-6a87fc77b5.jpg",
+   "sha256": "6a87fc77b50afcfa25c7c7e98cd08c151bbdc4e48e8a04837aa9fabb04e8e1cf",
+   "bytes": 288112,
+   "caption": "Beach, Manatí, Puerto Rico",
+   "credit": "Alexis Antonio / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/qoOUxBVJGE0",
+   "added": "2026-10-27-1547"
+  },
   {
    "id": "own-10979b9d99",
    "url": "https://moquette.github.io/backgrounds/images/own-10979b9d99.jpg",

@@ -7,6 +7,15 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 
 ## 1. Credits
 
+- `images/own-e22f102b63.jpg`: Sunset, Rincon, Puerto Rico, by Harry Gillen / Unsplash, Unsplash License. Source: https://unsplash.com/photos/rrBTb3zj8Zs
+- `images/own-9f26fe1847.jpg`: Flag door, Old San Juan, by Nils Huenerfuerst / Unsplash, Unsplash License. Source: https://unsplash.com/photos/vAh6pGq07h0
+- `images/own-c24eb2058a.jpg`: City walls, Old San Juan, by Ovidio Soto / Unsplash, Unsplash License. Source: https://unsplash.com/photos/OqEZLEZ_OuE
+- `images/own-9e80ddaafd.jpg`: Blue cobblestones, Viejo San Juan, by Laura Michalski / Unsplash, Unsplash License. Source: https://unsplash.com/photos/ywxVFOQu9Qc
+- `images/own-1aba59a007.jpg`: Colorful street, Old San Juan, by Jaime Correas / Unsplash, Unsplash License. Source: https://unsplash.com/photos/oCgDiOm6sh0
+- `images/own-1ce35deb5a.jpg`: Serrallés gardens, Ponce, by Eric Ardito / Unsplash, Unsplash License. Source: https://unsplash.com/photos/ck3mKasU18k
+- `images/own-68ef5f7649.jpg`: Colorful alley, Old San Juan, by LARAM / Unsplash, Unsplash License. Source: https://unsplash.com/photos/u58G3l58dig
+- `images/own-27e5f656dc.jpg`: Magdalena cemetery, Old San Juan, by Kimberly Coneo / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Z0MhD0WGVhI
+- `images/own-6a87fc77b5.jpg`: Beach, Manatí, Puerto Rico, by Alexis Antonio / Unsplash, Unsplash License. Source: https://unsplash.com/photos/qoOUxBVJGE0
 - `images/own-10979b9d99.jpg`: Pier at sunset, Santa Monica, by Scott Trento / Unsplash, Unsplash License. Source: https://unsplash.com/photos/mUFFI4CkmAI
 - `images/own-4240e3c90f.jpg`: Pier at sunset, Santa Monica, by Gerson Repreza / Unsplash, Unsplash License. Source: https://unsplash.com/photos/cpmZ9WkkYGE
 - `images/own-147ce3f422.jpg`: Pier at sunset, Santa Monica, by Tommaso Teloni / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Ti5BtG1NSpQ
