@@ -102,7 +102,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/own-98e9c4a859.jpg`: Brooklyn Bridge dusk, New York USA, by Dylan Freedom / Unsplash, Unsplash License. Source: https://unsplash.com/photos/iEgP_YHs-jM. The Brooklyn Bridge and Lower Manhattan in black and white, from the Brooklyn shore.
 - `images/5eb620fc70.jpg`: Evening canal scene, Austria, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2019_-_Urania_am_Abend_am_Donaukanal.jpg
 - `images/4647205d64.jpg`: Stone towers, Russia, by Altushkin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B9.jpg
-- `images/f97c8f39e6.jpg`: Monastery church, Ukraine, by Moahim, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%BD%D0%B0%D0%B4_%D0%9B%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D1%8E_-_2.jpg
 - `images/0ec52aa797.jpg`: Old town square, Azerbaijan, by Diego Delso, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico,_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_221-223_HDR.jpg
 - `images/54b1549b84.jpg`: Lakeside neon dusk, Denmark, by Kristoffer Trolle from Copenhagen, Denmark, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Cityscape_and_skyline_by_the_Copenhagen_Lakes,_Denmark_-_(36018109956).jpg
 - `images/617b32589a.jpg`: Amusement park, Sweden, by Arild Vågen, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_June_2015.jpg

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-27T15:47:49-07:00",
+ "updated": "2026-10-27T16:34:57-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -611,36 +611,25 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "f97c8f39e6",
-   "url": "https://moquette.github.io/backgrounds/images/f97c8f39e6.jpg",
-   "sha256": "984a7e5dd991e8075a207ebb98f5a07387148eb75093a4d232121a375a5eb87f",
-   "bytes": 302688,
-   "caption": "Monastery church, Ukraine",
-   "credit": "Moahim",
+   "id": "0ec52aa797",
+   "url": "https://moquette.github.io/backgrounds/images/0ec52aa797.jpg",
+   "sha256": "4dc9e9abe6678ea0ee0ec04ea75bae02ba4483060d323676c376354c529835de",
+   "bytes": 297702,
+   "caption": "Old town square, Azerbaijan",
+   "credit": "Diego Delso",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%BD%D0%B0%D0%B4_%D0%9B%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D1%8E_-_2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico,_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_221-223_HDR.jpg",
    "added": "2026-10-27-0834"
   },
   {
-   "id": "54b1549b84",
-   "url": "https://moquette.github.io/backgrounds/images/54b1549b84.jpg",
-   "sha256": "a5edf520c9b2b2d18d93b4e92bc9aca74c9a77f7c1ef8b06faad77fa440c6a23",
-   "bytes": 300553,
-   "caption": "Lakeside neon dusk, Denmark",
-   "credit": "Kristoffer Trolle from Copenhagen, Denmark",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Cityscape_and_skyline_by_the_Copenhagen_Lakes,_Denmark_-_(36018109956).jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "bfb62691d2",
-   "url": "https://moquette.github.io/backgrounds/images/bfb62691d2.jpg",
-   "sha256": "89fbffa2c2af9aa9094e77a484c25f39032e03ac7e945fe4e03b8624126391d2",
-   "bytes": 287684,
-   "caption": "Evening historic street, Denmark",
-   "credit": "Moahim",
+   "id": "617b32589a",
+   "url": "https://moquette.github.io/backgrounds/images/617b32589a.jpg",
+   "sha256": "f70e5a93d8b840a41a995a0a34de1400f8e4f4f562f39ed4b7b6962b5aa71e8c",
+   "bytes": 272195,
+   "caption": "Amusement park, Sweden",
+   "credit": "Arild Vågen",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:2018_-_Magstr%C3%A6de_street_in_evening.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_June_2015.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -652,17 +641,6 @@
    "credit": "Basile Morin",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_and_pink_clouds_reflecting_in_the_water_of_a_paddy_field_at_dusk_in_Don_Det_Laos.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "40e16083a1",
-   "url": "https://moquette.github.io/backgrounds/images/40e16083a1.jpg",
-   "sha256": "a421f5c1dc0b9a303a8c0f932b917a0541631ed5abd85b4e031e891972a30970",
-   "bytes": 294083,
-   "caption": "Pond reflection, Gyeongju Korea",
-   "credit": "Basile Morin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Banya_yeonji_pond_water_reflection_of_bridge_and_trees_under_blue_sky_at_Bulguksa_Gyeongju_South_Korea.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -699,14 +677,14 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "5e445a6752",
-   "url": "https://moquette.github.io/backgrounds/images/5e445a6752.jpg",
-   "sha256": "ac4be03ce53ceb8bcb6f5fd790c060044d53e887211e67d1f7b5337fa0017d35",
-   "bytes": 297384,
-   "caption": "Kuang Si Falls, Laos",
-   "credit": "Basile Morin",
+   "id": "6d342e9c0f",
+   "url": "https://moquette.github.io/backgrounds/images/6d342e9c0f.jpg",
+   "sha256": "b3cdc95c0604c94ba4fbf6c633081bed0923047fb0003e762511b2e388faac0e",
+   "bytes": 298437,
+   "caption": "Kimono Forest, Kyoto Japan",
+   "credit": "Yasumichi Morita (designer) Basile Morin (photographer)",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_with_submerged_tree_in_turquoise_water_near_Luang_Prabang_Laos.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Kimono_Forest_at_night,_Arashiyama_Station,_Arashiyama,_Kyoto,_Japan.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -743,15 +721,37 @@
    "added": "2026-10-27-0650"
   },
   {
-   "id": "465b00030c",
-   "url": "https://moquette.github.io/backgrounds/images/465b00030c.jpg",
-   "sha256": "26b82ae0a5fd7ab2aa50d1647047c712616219a1f3f207aac7935ec503833e0c",
-   "bytes": 275426,
-   "caption": "Dawn square, Venice Italy",
-   "credit": "Benh LIEU SONG",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg",
-   "added": "2026-10-27-0648"
+   "id": "9a4d8bde5b",
+   "url": "https://moquette.github.io/backgrounds/images/9a4d8bde5b.jpg",
+   "sha256": "69a20cbb9bee896e2e1e21aaa82f35db93a0a16a0061dbd95637ae65f1326d1b",
+   "bytes": 282249,
+   "caption": "Mountain valley fields, India",
+   "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Keylong_West_Lahaul_Himachal_Oct22_A7C_03375_panorama.jpg",
+   "added": "2026-10-27-0649"
+  },
+  {
+   "id": "52a9636c84",
+   "url": "https://moquette.github.io/backgrounds/images/52a9636c84.jpg",
+   "sha256": "85bf10555befa0cdf154071dc32e35cb506648f99920502b62f1411ea5df53a0",
+   "bytes": 280536,
+   "caption": "Frozen Hudson, New York",
+   "credit": "King of Hearts",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Battery_Park_City_New_York_January_2018_002.jpg",
+   "added": "2026-10-27-0647"
+  },
+  {
+   "id": "794070b767",
+   "url": "https://moquette.github.io/backgrounds/images/794070b767.jpg",
+   "sha256": "481bd88a055bb83cf320d2bc4844dc8ddbf4fd24d29c926df0f48de69f306250",
+   "bytes": 271867,
+   "caption": "Duk Ling ship, Hong Kong",
+   "credit": "Arne Müseler",
+   "licence": "CC BY-SA 3.0 de",
+   "source": "https://commons.wikimedia.org/wiki/File:Duck_ling_ship_hong_kong.jpg",
+   "added": "2026-10-27-0647"
   },
   {
    "id": "73aa65890b",
