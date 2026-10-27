@@ -7,6 +7,41 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 
 ## 1. Credits
 
+- `images/own-10979b9d99.jpg`: Pier at sunset, Santa Monica, by Scott Trento / Unsplash, Unsplash License. Source: https://unsplash.com/photos/mUFFI4CkmAI
+- `images/own-4240e3c90f.jpg`: Pier at sunset, Santa Monica, by Gerson Repreza / Unsplash, Unsplash License. Source: https://unsplash.com/photos/cpmZ9WkkYGE
+- `images/own-147ce3f422.jpg`: Pier at sunset, Santa Monica, by Tommaso Teloni / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Ti5BtG1NSpQ
+- `images/own-cdf5bde9ea.jpg`: Pier at sunset, Santa Monica, by Venti Views / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Bb30Sjvj-lE
+- `images/own-f3dc3878c0.jpg`: Pier at sunset, Santa Monica, by Matthew LeJune / Unsplash, Unsplash License. Source: https://unsplash.com/photos/50hokKYxznc
+- `images/own-1c27363697.jpg`: Palm-lined street, Beverly Hills, by Reinis Birznieks / Unsplash, Unsplash License. Source: https://unsplash.com/photos/yIF_5hBt8nA
+- `images/own-a1667dd7c6.jpg`: Palm-lined street, Beverly Hills, by Meg von Haartman / Unsplash, Unsplash License. Source: https://unsplash.com/photos/vVk_fExTY0A
+- `images/own-c89a986fd9.jpg`: Palm-lined street, Beverly Hills, by Steve Sharp / Unsplash, Unsplash License. Source: https://unsplash.com/photos/rMl1cZfVUHo
+- `images/own-916b1a0dab.jpg`: Palm-lined street, Beverly Hills, by Venti Views / Unsplash, Unsplash License. Source: https://unsplash.com/photos/TH8D-CrYZEY
+- `images/own-e2c7e013cc.jpg`: Palm-lined street, Beverly Hills, by Manuchehr Kurbonali / Unsplash, Unsplash License. Source: https://unsplash.com/photos/8cp3cGlL7bI
+- `images/own-5fccc0ddc0.jpg`: Downtown skyline, Los Angeles, by Andy Feliciotti / Unsplash, Unsplash License. Source: https://unsplash.com/photos/z2fkN9iVg5Y
+- `images/own-1080edfaaf.jpg`: Downtown skyline, Los Angeles, by Lisha Riabinina / Unsplash, Unsplash License. Source: https://unsplash.com/photos/vL9V8ilDLCQ
+- `images/own-654d659d46.jpg`: Downtown skyline, Los Angeles, by Venti Views / Unsplash, Unsplash License. Source: https://unsplash.com/photos/Xx6zJlBGN-Y
+- `images/own-da416e6e3a.jpg`: Downtown skyline, Los Angeles, by kaleb tapp / Unsplash, Unsplash License. Source: https://unsplash.com/photos/QHDIQ2IzF1I
+- `images/own-2ed53414f7.jpg`: Downtown skyline, Los Angeles, by T Fang / Unsplash, Unsplash License. Source: https://unsplash.com/photos/31rUM4Ze8Rs
+- `images/own-4da5359ed2.jpg`: Coastline, Malibu, by Julian Myles / Unsplash, Unsplash License. Source: https://unsplash.com/photos/svW8L2ZIJSs
+- `images/own-fc13d26b6c.jpg`: Coastline, Malibu, by Andre Frueh / Unsplash, Unsplash License. Source: https://unsplash.com/photos/jV1Se0kAXlE
+- `images/own-4e7ca5a88d.jpg`: Coastline, Malibu, by Logan Voss / Unsplash, Unsplash License. Source: https://unsplash.com/photos/d1Kwr3sgh08
+- `images/own-ee1c648d63.jpg`: Coastline, Malibu, by Steven Pahel / Unsplash, Unsplash License. Source: https://unsplash.com/photos/_LwHXTh7M0U
+- `images/own-f63406627f.jpg`: Coastline, Malibu, by Tom Briskey / Unsplash, Unsplash License. Source: https://unsplash.com/photos/8TcVm9hljGI
+- `images/own-15a3f2e2b2.jpg`: City view, Los Angeles, by Rafael Verdin / Unsplash, Unsplash License. Source: https://unsplash.com/photos/tISH8-civk4
+- `images/own-a88cc327b6.jpg`: City view, Los Angeles, by Venti Views / Unsplash, Unsplash License. Source: https://unsplash.com/photos/_TDdZOgzEoU
+- `images/own-ef41da1ec7.jpg`: City view, Los Angeles, by Anthony A / Unsplash, Unsplash License. Source: https://unsplash.com/photos/ZX_tE9xfbkI
+- `images/own-12c7d90356.jpg`: City view, Los Angeles, by Daryan Shamkhali / Unsplash, Unsplash License. Source: https://unsplash.com/photos/7iWySmm8qX8
+- `images/own-2e7cfd9d87.jpg`: City view, Los Angeles, by Daniel Schludi / Unsplash, Unsplash License. Source: https://unsplash.com/photos/23Jlm7eBsxA
+- `images/own-066b35aa88.jpg`: Beach, Santa Monica, by Andrew Gwizdowski / Unsplash, Unsplash License. Source: https://unsplash.com/photos/jng__uVpNWg
+- `images/own-7faf767ce7.jpg`: Beach, Santa Monica, by Venti Views / Unsplash, Unsplash License. Source: https://unsplash.com/photos/ioKYuDRY3gg
+- `images/own-bba7a31d26.jpg`: Beach, Santa Monica, by Brady Bates / Unsplash, Unsplash License. Source: https://unsplash.com/photos/fmdvc-bv2Z8
+- `images/own-db16c0f72c.jpg`: Beach, Santa Monica, by Oxana Melis / Unsplash, Unsplash License. Source: https://unsplash.com/photos/EcXjDHe6X-8
+- `images/own-7200c97af3.jpg`: Beach, Santa Monica, by Cédric Dhaenens / Unsplash, Unsplash License. Source: https://unsplash.com/photos/-foTTNNe7Ak
+- `images/own-135a1745d7.jpg`: Beach town, Laguna Beach, by Nicholas Ceglia / Unsplash, Unsplash License. Source: https://unsplash.com/photos/s5-5t9cWe2E
+- `images/own-e50e4fb7df.jpg`: Beach town, Laguna Beach, by Daniel Salcius / Unsplash, Unsplash License. Source: https://unsplash.com/photos/lNncbDorezc
+- `images/own-6e695a8a60.jpg`: Beach town, Laguna Beach, by Trac Vu / Unsplash, Unsplash License. Source: https://unsplash.com/photos/inLsNNDGLh4
+- `images/own-7b263de138.jpg`: Beach town, Laguna Beach, by Trac Vu / Unsplash, Unsplash License. Source: https://unsplash.com/photos/EfNvaW9tivk
+- `images/own-962e0d120a.jpg`: Beach town, Laguna Beach, by Richard Eddy / Unsplash, Unsplash License. Source: https://unsplash.com/photos/4zFFnWJa6po
 - `images/5f880f10b5.jpg`: Wide beach, Norderney Germany, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Norderney,_Nordsee_am_Oststrand_--_2016_--_5167_(bw)_-_2.jpg
 - `images/e3e026683f.jpg`: Serendipity Beach, Cambodia, by Marcin Konsek, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:2016_Sihanoukville,_Pla%C5%BCa_Serendipity_(04).jpg
 - `images/76dc56a96e.jpg`: Calm bay coast, New Zealand, by Krzysztof Golik, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Meybille_Bay_07.jpg
