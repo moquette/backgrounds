@@ -56,7 +56,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/76dc56a96e.jpg`: Calm bay coast, New Zealand, by Krzysztof Golik, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Meybille_Bay_07.jpg
 - `images/3da903c542.jpg`: Lighthouse beach, Brazil, by Kendy Fujita, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_Ilha_do_Mel.jpg
 - `images/0475009f28.jpg`: Rocky beach shore, Portugal, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Martinho_(Madeira,_Portugal),_Praia_Formosa_--_2025_--_0736.jpg
-- `images/fa060eb67f.jpg`: Mangroves on beach, India, by Vyacheslav Argenberg, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg
 - `images/8c9a8c9e58.jpg`: Iriri Beach bay, Brazil, by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:At_Paraty_2023_263.jpg
 - `images/ffbfb54251.jpg`: Miami Beach lifeguard, USA, by Radomianin, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg
 - `images/1431f86f19.jpg`: Sea rock formations, Portugal, by Dietmar Rabich, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheuzinho_und_Ilheus_da_Rib_--_2025_--_1579.jpg

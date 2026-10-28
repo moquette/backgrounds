@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:09:55-07:00",
+ "updated": "2026-10-28T07:10:03-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -539,17 +539,6 @@
    "credit": "Dietmar Rabich",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Martinho_(Madeira,_Portugal),_Praia_Formosa_--_2025_--_0736.jpg",
-   "added": "2026-10-27-1431"
-  },
-  {
-   "id": "fa060eb67f",
-   "url": "https://moquette.github.io/backgrounds/images/fa060eb67f.jpg",
-   "sha256": "621039d8ebba0dd3c182ed06feb9e2cac6ca2d5a92d124165450379d7fb18285",
-   "bytes": 279803,
-   "caption": "Mangroves on beach, India",
-   "credit": "Vyacheslav Argenberg",
-   "licence": "CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg",
    "added": "2026-10-27-1431"
   },
   {

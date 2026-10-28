@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:09:55-07:00",
+ "updated": "2026-10-28T07:10:03-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -476,17 +476,6 @@
    "added": "2026-10-27-1431"
   },
   {
-   "id": "8c9a8c9e58",
-   "url": "https://moquette.github.io/backgrounds/images/8c9a8c9e58.jpg",
-   "sha256": "14340c7131706d8058fc9a5f954ed1d8352d16da6f3e3c9578269ac01259fd2f",
-   "bytes": 298517,
-   "caption": "Iriri Beach bay, Brazil",
-   "credit": "Photograph by Mike Peel (www.mikepeel.net).",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:At_Paraty_2023_263.jpg",
-   "added": "2026-10-27-1431"
-  },
-  {
    "id": "ffbfb54251",
    "url": "https://moquette.github.io/backgrounds/images/ffbfb54251.jpg",
    "sha256": "54880496a59aca4172f4d7cdb16dac181ba96be0a1f5b101003f69c4358c67f5",
@@ -498,25 +487,36 @@
    "added": "2026-10-27-1431"
   },
   {
-   "id": "be4f8d4c5d",
-   "url": "https://moquette.github.io/backgrounds/images/be4f8d4c5d.jpg",
-   "sha256": "82758df4bf03eebb8e936a4d7e993c9be30ce5ded0416a417de60aa1319923c5",
-   "bytes": 305000,
-   "caption": "Hillside sign, Los Angeles, USA",
-   "credit": "Thomas Wolf, www.foto-tw.de",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign.jpg",
+   "id": "1431f86f19",
+   "url": "https://moquette.github.io/backgrounds/images/1431f86f19.jpg",
+   "sha256": "4a0e74580e3790df5b6d10e291ad7c6ac70d5f3d46837e6bac0995af1977188e",
+   "bytes": 258555,
+   "caption": "Sea rock formations, Portugal",
+   "credit": "Dietmar Rabich",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheuzinho_und_Ilheus_da_Rib_--_2025_--_1579.jpg",
    "added": "2026-10-27-1431"
   },
   {
-   "id": "c37085cfc1",
-   "url": "https://moquette.github.io/backgrounds/images/c37085cfc1.jpg",
-   "sha256": "d9330bf0c275244cc135bd176afcf5d7acea0ed0efb6d9c84c74396b951e75f0",
-   "bytes": 301853,
-   "caption": "Skyline, Los Angeles, USA",
+   "id": "bce2fe76f3",
+   "url": "https://moquette.github.io/backgrounds/images/bce2fe76f3.jpg",
+   "sha256": "ad172ecc4d7e073b89220ef083488f6079f6163b46bf0cf56f53d060569aee18",
+   "bytes": 270151,
+   "caption": "Calm lake shore, Canada",
+   "credit": "Jakub Fryš",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bennett_Lake.jpg",
+   "added": "2026-10-27-1431"
+  },
+  {
+   "id": "4845a481ad",
+   "url": "https://moquette.github.io/backgrounds/images/4845a481ad.jpg",
+   "sha256": "75cba70c0ca199649fc60edaea0d1f73cb2f66c0fd4b302e711d4937791b7497",
+   "bytes": 297430,
+   "caption": "Fountain plaza, Los Angeles, USA",
    "credit": "Dietmar Rabich",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Bunker_Hill,_South_Grand_Avenue_--_2012_--_5263-5.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4853.jpg",
    "added": "2026-10-27-1431"
   },
   {
@@ -531,36 +531,25 @@
    "added": "2026-10-27-1430"
   },
   {
-   "id": "500abd96f9",
-   "url": "https://moquette.github.io/backgrounds/images/500abd96f9.jpg",
-   "sha256": "97d8eee5fe532a2c45e46182c56b186f4b64c8bc7a1c099f2521ce2525d696b9",
-   "bytes": 306559,
-   "caption": "Hillside old town, Albania",
-   "credit": "Steffen Schmitz (more photos)",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Himara,_Dh%C3%ABrmi,_2024-10_CN-03.jpg",
-   "added": "2026-10-27-1430"
-  },
-  {
-   "id": "ade33d3d1e",
-   "url": "https://moquette.github.io/backgrounds/images/ade33d3d1e.jpg",
-   "sha256": "adc22754bc15d00512bbabf7717cc39da546ae71443cc9175afddef10e476d70",
-   "bytes": 282137,
-   "caption": "Blue hour old town, South Korea",
-   "credit": "Basile Morin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-   "added": "2026-10-27-1430"
-  },
-  {
-   "id": "f649a96480",
-   "url": "https://moquette.github.io/backgrounds/images/f649a96480.jpg",
-   "sha256": "fd42df9ea78e41aca168de638e2d9cb7e8ad14a3962bd5103dc661a39022f87f",
-   "bytes": 295681,
-   "caption": "Riverside towers reflected, USA",
+   "id": "821c2d9755",
+   "url": "https://moquette.github.io/backgrounds/images/821c2d9755.jpg",
+   "sha256": "c5f5f4736d6262c2c71e4693cb80a0d5cf8247c0f6fadc6ca475c5904d995b3d",
+   "bytes": 285313,
+   "caption": "Canary Wharf towers, UK",
    "credit": "King of Hearts",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Charles_River_Esplanade_Boston_May_2018_panorama.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg",
+   "added": "2026-10-27-1430"
+  },
+  {
+   "id": "dadf65e7f4",
+   "url": "https://moquette.github.io/backgrounds/images/dadf65e7f4.jpg",
+   "sha256": "e9d3356f6267da101dbb9f97cc751c600d40ec51725adeea263c0be99c7770a3",
+   "bytes": 305378,
+   "caption": "City skyline view, Colombia",
+   "credit": "Steffen Schmitz (more photos)",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bogot%C3%A1,_Santa_Fe,_2023-06_CN-02.jpg",
    "added": "2026-10-27-1430"
   },
   {
@@ -575,39 +564,38 @@
    "added": "2026-10-27-1430"
   },
   {
-   "id": "a68c4d9711",
-   "url": "https://moquette.github.io/backgrounds/images/a68c4d9711.jpg",
-   "sha256": "842e478686faf2f341d0e4afe6c28ac64b192db8733a4feb06f00fde7c239e11",
-   "bytes": 292728,
-   "caption": "Old town skyline, Germany",
-   "credit": "Thomas Wolf, www.foto-tw.de",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
+   "id": "7400e1ec49",
+   "url": "https://moquette.github.io/backgrounds/images/7400e1ec49.jpg",
+   "sha256": "03c57abe19e9a496aadc61cafd5859a5ce43eca6404dfd60763f84bf4b28366b",
+   "bytes": 281873,
+   "caption": "Lakeside old town, Switzerland",
+   "credit": "NOTE: This image is a panorama consisting of multiple frames that were merged or stitched in software. As a result, this",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CH.ZG.Zug_View_from_Guggi_01_16x9%2BR_8192x4608_Br058_gp_denoising_Br075.jpg",
    "added": "2026-10-27-1430"
   },
   {
-   "id": "own-6c9f7205f9",
-   "url": "https://moquette.github.io/backgrounds/images/own-6c9f7205f9.jpg",
-   "sha256": "6c9f7205f9581bac764ac924b1ddfdb17c64f46ce500489d193563cd49862b50",
-   "bytes": 295160,
-   "caption": "Pudong over the Huangpu, Shanghai",
-   "credit": "Li Yang / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/5h_dMuX_7RE",
-   "added": "2026-10-27-0927",
-   "description": "The Oriental Pearl Tower and the Pudong skyline reflected in the Huangpu under an evening sky."
+   "id": "683d00af35",
+   "url": "https://moquette.github.io/backgrounds/images/683d00af35.jpg",
+   "sha256": "98f285423c324e31e12a89a9ad746b3ebc18320a15e3e630134629c3f53e18ad",
+   "bytes": 254114,
+   "caption": "Winter church and harbor, Sweden",
+   "credit": "ThibautRe",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:H%C3%B6galidskyrkan_in_winter_(2024).jpg",
+   "added": "2026-10-27-1430"
   },
   {
-   "id": "own-800b8eb374",
-   "url": "https://moquette.github.io/backgrounds/images/own-800b8eb374.jpg",
-   "sha256": "800b8eb37491a7e9e813ae70e7b9ac108e06edc6ea6dc8d313f317e30d4996f2",
-   "bytes": 273579,
-   "caption": "Manhattan skyline, New York, USA",
-   "credit": "Patrick Tomasso / Unsplash",
+   "id": "own-995ded3cc7",
+   "url": "https://moquette.github.io/backgrounds/images/own-995ded3cc7.jpg",
+   "sha256": "995ded3cc7fc70043252e191bf7c23781724722d93ec46dc9680afd0160c00a1",
+   "bytes": 300902,
+   "caption": "Plitvice Lakes, Croatia",
+   "credit": "Niklas Bischop / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/SVVTZtTGyaU",
-   "added": "2026-10-27-0925",
-   "description": "Lower Manhattan from above, with the Brooklyn Bridge and the East River."
+   "source": "https://unsplash.com/photos/ZH7ddK24w2k",
+   "added": "2026-10-27-0927",
+   "description": "Waterfalls pouring into a green lake in Plitvice Lakes National Park."
   },
   {
    "id": "own-8387f8ddb2",
@@ -646,15 +634,16 @@
    "description": "A thatched-roof house on a green hill above a flower garden."
   },
   {
-   "id": "5eb620fc70",
-   "url": "https://moquette.github.io/backgrounds/images/5eb620fc70.jpg",
-   "sha256": "c494313f15f523827d131a3c182996b4e62992f47c31d38cb96bb6ec88e593fe",
-   "bytes": 301098,
-   "caption": "Evening canal scene, Austria",
-   "credit": "Moahim",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:2019_-_Urania_am_Abend_am_Donaukanal.jpg",
-   "added": "2026-10-27-0834"
+   "id": "own-98e9c4a859",
+   "url": "https://moquette.github.io/backgrounds/images/own-98e9c4a859.jpg",
+   "sha256": "98e9c4a8594bd886502ac939c24ed802decba60ac46c4e0a6452816de23b3211",
+   "bytes": 301143,
+   "caption": "Brooklyn Bridge, New York, USA",
+   "credit": "Dylan Freedom / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/iEgP_YHs-jM",
+   "added": "2026-10-27-0924",
+   "description": "The Brooklyn Bridge and Lower Manhattan in black and white, from the Brooklyn shore."
   },
   {
    "id": "4647205d64",
@@ -679,14 +668,14 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "f2e57eb53c",
-   "url": "https://moquette.github.io/backgrounds/images/f2e57eb53c.jpg",
-   "sha256": "2cfd9cdcf8187243bd0106cde6c08ee2cdc3532787a946ca7e9fded5bb3b2de7",
-   "bytes": 286864,
-   "caption": "Mekong waterfall, Laos",
-   "credit": "Basile Morin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Khone_Phapheng_Falls,_Si_Phan_Don,_Laos,_widest_waterfall_in_the_world.jpg",
+   "id": "61efebfc0f",
+   "url": "https://moquette.github.io/backgrounds/images/61efebfc0f.jpg",
+   "sha256": "684580276f4b7c21a13f45880a5d9e165f6857895c8471eb45ff24dca49bd29c",
+   "bytes": 281174,
+   "caption": "Benjakitti Forest Park, Thailand",
+   "credit": "Supanut Arunoprayote",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Benjakitti_Forest_Park_(I).jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -701,25 +690,25 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "4a0b52fbb4",
-   "url": "https://moquette.github.io/backgrounds/images/4a0b52fbb4.jpg",
-   "sha256": "0484b392c0369d0c6eb5a11e257e63569be5c8718735b47fb65258883dd646d6",
-   "bytes": 297283,
-   "caption": "L'Umbracle, Valencia, Spain",
-   "credit": "Diliff",
+   "id": "c7927ba4e6",
+   "url": "https://moquette.github.io/backgrounds/images/c7927ba4e6.jpg",
+   "sha256": "d0e44fdb31af6982e80428b97432338b563a0d4e11c6796535a3fe84878763f1",
+   "bytes": 291001,
+   "caption": "Antwerp Central Station, Belgium",
+   "credit": "Laurent-Jonathan Meyvaert",
    "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Antwerp_Central_Station_full_size.jpg",
    "added": "2026-10-27-0834"
   },
   {
-   "id": "fd70784987",
-   "url": "https://moquette.github.io/backgrounds/images/fd70784987.jpg",
-   "sha256": "caa14f8a61a08e420e7d8023a30d411ad1c86761baae5ef13a8e12cc4540b3df",
-   "bytes": 281832,
-   "caption": "Kuang Si emerald pools, Laos",
-   "credit": "Basile Morin",
+   "id": "3256fad074",
+   "url": "https://moquette.github.io/backgrounds/images/3256fad074.jpg",
+   "sha256": "d5f4cf58c84958a97db8fcf591e704a081036d3e9d2e03fe45d229b757a31837",
+   "bytes": 286451,
+   "caption": "Gamla Stan, Stockholm, Sweden",
+   "credit": "Ximonic (Simo Räsänen)",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_its_emerald_water_pools_in_Luang_Prabang_province_Laos.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Corner_between_S%C3%B6dra_Benickebrinken_and_%C3%96sterl%C3%A5nggatan_in_Gamla_Stan,_Stockholm,_Sweden,_2022_December.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -756,17 +745,6 @@
    "added": "2026-10-27-0649"
   },
   {
-   "id": "e78816ce50",
-   "url": "https://moquette.github.io/backgrounds/images/e78816ce50.jpg",
-   "sha256": "5272739c61136636e80acbe14db429ef0cdb5d169e1442532c58578aab1214a0",
-   "bytes": 283479,
-   "caption": "Terraced hill villages, India",
-   "credit": "Timothy A. Gonsalves",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
-   "added": "2026-10-27-0649"
-  },
-  {
    "id": "465b00030c",
    "url": "https://moquette.github.io/backgrounds/images/465b00030c.jpg",
    "sha256": "26b82ae0a5fd7ab2aa50d1647047c712616219a1f3f207aac7935ec503833e0c",
@@ -775,6 +753,17 @@
    "credit": "Benh LIEU SONG",
    "licence": "Public domain",
    "source": "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg",
+   "added": "2026-10-27-0648"
+  },
+  {
+   "id": "03bf16fa34",
+   "url": "https://moquette.github.io/backgrounds/images/03bf16fa34.jpg",
+   "sha256": "8807ad1ac80e9b856b5a962869e9176e5ef775d09f72b2e88864a52f114fc861",
+   "bytes": 287298,
+   "caption": "Atomium sphere, Brussels, Belgium",
+   "credit": "Trougnouf (Benoit Brummer)",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg",
    "added": "2026-10-27-0648"
   },
   {
@@ -798,6 +787,17 @@
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:AvMalecon-LaHabanaCuba-04735.jpg",
    "added": "2026-10-27-0647"
+  },
+  {
+   "id": "e114d9b3e4",
+   "url": "https://moquette.github.io/backgrounds/images/e114d9b3e4.jpg",
+   "sha256": "0f34a8b14be8327a2e819258dcf2839eed039f52c30df49b218df5cd7510a78f",
+   "bytes": 277093,
+   "caption": "Reservoir dam, England",
+   "credit": "Kreuzschnabel",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2014_Scar_House_Reservoir_Dam.jpg",
+   "added": "2026-10-27-0645"
   }
  ],
  "liked": []
