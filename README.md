@@ -120,7 +120,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/e9e18e2c46.jpg`: Umbrella pines landscape, Italy, by Hendrik Voogd, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg
 - `images/27e8bff2bb.jpg`: Storm over peaks, Rockies, USA, by Albert Bierstadt, Public domain. Source: https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg
 - `images/465b00030c.jpg`: Dawn square, Venice, Italy, by Benh LIEU SONG, Public domain. Source: https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg
-- `images/03bf16fa34.jpg`: Atomium sphere, Brussels, Belgium, by Trougnouf (Benoit Brummer), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg
 - `images/52a9636c84.jpg`: Frozen Hudson, New York, by King of Hearts, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Battery_Park_City_New_York_January_2018_002.jpg
 - `images/794070b767.jpg`: Duk Ling ship, Hong Kong, by Arne Müseler, CC BY-SA 3.0 de. Source: https://commons.wikimedia.org/wiki/File:Duck_ling_ship_hong_kong.jpg
 - `images/73aa65890b.jpg`: Malecon avenue, Cuba, by Ezarate This is a retouched picture, which means that it has been digitally a..., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:AvMalecon-LaHabanaCuba-04735.jpg
