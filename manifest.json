@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:09:46-07:00",
+ "updated": "2026-10-28T07:09:55-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -410,6 +410,17 @@
    "added": "2026-10-27-1440"
   },
   {
+   "id": "own-db16c0f72c",
+   "url": "https://moquette.github.io/backgrounds/images/own-db16c0f72c.jpg",
+   "sha256": "db16c0f72ca8a161b2a93c4e359fd7c298d449f4c101e312857490dd5528261f",
+   "bytes": 301591,
+   "caption": "Beach, Santa Monica",
+   "credit": "Oxana Melis / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/EcXjDHe6X-8",
+   "added": "2026-10-27-1440"
+  },
+  {
    "id": "own-135a1745d7",
    "url": "https://moquette.github.io/backgrounds/images/own-135a1745d7.jpg",
    "sha256": "135a1745d7c9940148c36c91bbf964e1e081dddf160604c43a42ff093b39d867",
@@ -657,14 +668,14 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "54b1549b84",
-   "url": "https://moquette.github.io/backgrounds/images/54b1549b84.jpg",
-   "sha256": "a5edf520c9b2b2d18d93b4e92bc9aca74c9a77f7c1ef8b06faad77fa440c6a23",
-   "bytes": 300553,
-   "caption": "Lakeside neon dusk, Denmark",
-   "credit": "Kristoffer Trolle from Copenhagen, Denmark",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Cityscape_and_skyline_by_the_Copenhagen_Lakes,_Denmark_-_(36018109956).jpg",
+   "id": "0ec52aa797",
+   "url": "https://moquette.github.io/backgrounds/images/0ec52aa797.jpg",
+   "sha256": "4dc9e9abe6678ea0ee0ec04ea75bae02ba4483060d323676c376354c529835de",
+   "bytes": 297702,
+   "caption": "Old town square, Azerbaijan",
+   "credit": "Diego Delso",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico,_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_221-223_HDR.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -690,14 +701,14 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "c7927ba4e6",
-   "url": "https://moquette.github.io/backgrounds/images/c7927ba4e6.jpg",
-   "sha256": "d0e44fdb31af6982e80428b97432338b563a0d4e11c6796535a3fe84878763f1",
-   "bytes": 291001,
-   "caption": "Antwerp Central Station, Belgium",
-   "credit": "Laurent-Jonathan Meyvaert",
+   "id": "4a0b52fbb4",
+   "url": "https://moquette.github.io/backgrounds/images/4a0b52fbb4.jpg",
+   "sha256": "0484b392c0369d0c6eb5a11e257e63569be5c8718735b47fb65258883dd646d6",
+   "bytes": 297283,
+   "caption": "L'Umbracle, Valencia, Spain",
+   "credit": "Diliff",
    "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Antwerp_Central_Station_full_size.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -723,14 +734,14 @@
    "added": "2026-10-27-0824"
   },
   {
-   "id": "e9e18e2c46",
-   "url": "https://moquette.github.io/backgrounds/images/e9e18e2c46.jpg",
-   "sha256": "c8b53ab0fa7a5b576717e8ed104986eb29e7d27bcf179e9e9757fde53b155b77",
-   "bytes": 282040,
-   "caption": "Umbrella pines landscape, Italy",
-   "credit": "Hendrik Voogd",
+   "id": "9e81343db9",
+   "url": "https://moquette.github.io/backgrounds/images/9e81343db9.jpg",
+   "sha256": "580c2e0d7c5586a3b2538cc4e2394267bf2e45f243cf6df055091519b1a1d725",
+   "bytes": 290936,
+   "caption": "Cobbled street, Paris, France",
+   "credit": "Johan Jongkind",
    "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Johan_Barthold_Jongkind_-_Rue_Notre-Dame,_Parijs.jpg",
    "added": "2026-10-27-0650"
   },
   {
@@ -745,14 +756,14 @@
    "added": "2026-10-27-0649"
   },
   {
-   "id": "536e7f6fc5",
-   "url": "https://moquette.github.io/backgrounds/images/536e7f6fc5.jpg",
-   "sha256": "7daf0ad671b6e2923c17c7b2cb121aecd9a7338bd4615398f9b110e2166afc3b",
-   "bytes": 283093,
-   "caption": "Arid mountain fields, India",
+   "id": "e78816ce50",
+   "url": "https://moquette.github.io/backgrounds/images/e78816ce50.jpg",
+   "sha256": "5272739c61136636e80acbe14db429ef0cdb5d169e1442532c58578aab1214a0",
+   "bytes": 283479,
+   "caption": "Terraced hill villages, India",
    "credit": "Timothy A. Gonsalves",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:NW_Yugar_Fields_Phu_Nala_Zanskar_Jun24_A7CR_00465.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
    "added": "2026-10-27-0649"
   },
   {
@@ -764,17 +775,6 @@
    "credit": "Benh LIEU SONG",
    "licence": "Public domain",
    "source": "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg",
-   "added": "2026-10-27-0648"
-  },
-  {
-   "id": "03bf16fa34",
-   "url": "https://moquette.github.io/backgrounds/images/03bf16fa34.jpg",
-   "sha256": "8807ad1ac80e9b856b5a962869e9176e5ef775d09f72b2e88864a52f114fc861",
-   "bytes": 287298,
-   "caption": "Atomium sphere, Brussels, Belgium",
-   "credit": "Trougnouf (Benoit Brummer)",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg",
    "added": "2026-10-27-0648"
   },
   {
