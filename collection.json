@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:10:03-07:00",
+ "updated": "2026-10-28T07:10:11-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -1250,17 +1250,6 @@
    "licence": "Public domain",
    "source": "https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg",
    "added": "2026-10-27-0650"
-  },
-  {
-   "id": "9a4d8bde5b",
-   "url": "https://moquette.github.io/backgrounds/images/9a4d8bde5b.jpg",
-   "sha256": "69a20cbb9bee896e2e1e21aaa82f35db93a0a16a0061dbd95637ae65f1326d1b",
-   "bytes": 282249,
-   "caption": "Mountain valley fields, India",
-   "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Keylong_West_Lahaul_Himachal_Oct22_A7C_03375_panorama.jpg",
-   "added": "2026-10-27-0649"
   },
   {
    "id": "e78816ce50",

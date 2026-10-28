@@ -119,7 +119,6 @@ licence (CC0, public domain, CC BY or CC BY-SA), not under any licence of this r
 - `images/9e81343db9.jpg`: Cobbled street, Paris, France, by Johan Jongkind, Public domain. Source: https://commons.wikimedia.org/wiki/File:Johan_Barthold_Jongkind_-_Rue_Notre-Dame,_Parijs.jpg
 - `images/e9e18e2c46.jpg`: Umbrella pines landscape, Italy, by Hendrik Voogd, Public domain. Source: https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg
 - `images/27e8bff2bb.jpg`: Storm over peaks, Rockies, USA, by Albert Bierstadt, Public domain. Source: https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg
-- `images/9a4d8bde5b.jpg`: Mountain valley fields, India, by This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but..., CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Keylong_West_Lahaul_Himachal_Oct22_A7C_03375_panorama.jpg
 - `images/e78816ce50.jpg`: Terraced hill villages, India, by Timothy A. Gonsalves, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg
 - `images/465b00030c.jpg`: Dawn square, Venice, Italy, by Benh LIEU SONG, Public domain. Source: https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg
 - `images/03bf16fa34.jpg`: Atomium sphere, Brussels, Belgium, by Trougnouf (Benoit Brummer), CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Atomium_sphere_(DSCF1211).jpg
