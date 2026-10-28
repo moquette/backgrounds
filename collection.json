@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:10:11-07:00",
+ "updated": "2026-10-28T07:10:19-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -1250,17 +1250,6 @@
    "licence": "Public domain",
    "source": "https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg",
    "added": "2026-10-27-0650"
-  },
-  {
-   "id": "e78816ce50",
-   "url": "https://moquette.github.io/backgrounds/images/e78816ce50.jpg",
-   "sha256": "5272739c61136636e80acbe14db429ef0cdb5d169e1442532c58578aab1214a0",
-   "bytes": 283479,
-   "caption": "Terraced hill villages, India",
-   "credit": "Timothy A. Gonsalves",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
-   "added": "2026-10-27-0649"
   },
   {
    "id": "465b00030c",

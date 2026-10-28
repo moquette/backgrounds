@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:10:11-07:00",
+ "updated": "2026-10-28T07:10:19-07:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -610,6 +610,18 @@
    "description": "Waterfalls pouring into a green lake in Plitvice Lakes National Park."
   },
   {
+   "id": "own-800b8eb374",
+   "url": "https://moquette.github.io/backgrounds/images/own-800b8eb374.jpg",
+   "sha256": "800b8eb37491a7e9e813ae70e7b9ac108e06edc6ea6dc8d313f317e30d4996f2",
+   "bytes": 273579,
+   "caption": "Manhattan skyline, New York, USA",
+   "credit": "Patrick Tomasso / Unsplash",
+   "licence": "Unsplash License",
+   "source": "https://unsplash.com/photos/SVVTZtTGyaU",
+   "added": "2026-10-27-0925",
+   "description": "Lower Manhattan from above, with the Brooklyn Bridge and the East River."
+  },
+  {
    "id": "own-8387f8ddb2",
    "url": "https://moquette.github.io/backgrounds/images/own-8387f8ddb2.jpg",
    "sha256": "8387f8ddb2b1e72948660ab4f8210670715d196d03ecd7f04fedd6ec558dd517",
@@ -755,17 +767,6 @@
    "licence": "Public domain",
    "source": "https://commons.wikimedia.org/wiki/File:Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie_-_Google_Art_Project.jpg",
    "added": "2026-10-27-0650"
-  },
-  {
-   "id": "465b00030c",
-   "url": "https://moquette.github.io/backgrounds/images/465b00030c.jpg",
-   "sha256": "26b82ae0a5fd7ab2aa50d1647047c712616219a1f3f207aac7935ec503833e0c",
-   "bytes": 275426,
-   "caption": "Dawn square, Venice, Italy",
-   "credit": "Benh LIEU SONG",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg",
-   "added": "2026-10-27-0648"
   },
   {
    "id": "03bf16fa34",
