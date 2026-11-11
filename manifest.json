@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-10T04:31:06-08:00",
+ "updated": "2026-11-11T04:31:05-08:00",
  "photos": [
   {
    "id": "own-e22f102b63",
@@ -399,25 +399,14 @@
    "added": "2026-10-27-1440"
   },
   {
-   "id": "own-bba7a31d26",
-   "url": "https://moquette.github.io/backgrounds/images/own-bba7a31d26.jpg",
-   "sha256": "bba7a31d26540138a40ebf92d737131b1f9069e0d9e311d8c359c06f7fa8eb66",
-   "bytes": 303958,
-   "caption": "Beach, Santa Monica",
-   "credit": "Brady Bates / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/fmdvc-bv2Z8",
-   "added": "2026-10-27-1440"
-  },
-  {
-   "id": "own-135a1745d7",
-   "url": "https://moquette.github.io/backgrounds/images/own-135a1745d7.jpg",
-   "sha256": "135a1745d7c9940148c36c91bbf964e1e081dddf160604c43a42ff093b39d867",
-   "bytes": 276423,
+   "id": "own-e50e4fb7df",
+   "url": "https://moquette.github.io/backgrounds/images/own-e50e4fb7df.jpg",
+   "sha256": "e50e4fb7dfe747ad5b742193a61395bdfe510e0d217cb662c4f307a5b69a19ac",
+   "bytes": 291438,
    "caption": "Beach town, Laguna Beach",
-   "credit": "Nicholas Ceglia / Unsplash",
+   "credit": "Daniel Salcius / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/s5-5t9cWe2E",
+   "source": "https://unsplash.com/photos/lNncbDorezc",
    "added": "2026-10-27-1440"
   },
   {
@@ -443,14 +432,14 @@
    "added": "2026-10-27-1440"
   },
   {
-   "id": "5f880f10b5",
-   "url": "https://moquette.github.io/backgrounds/images/5f880f10b5.jpg",
-   "sha256": "f0e8d7b1a3e693c60f577acf50ca15d6d9ebb6173190e8966972eeaa80ae2ce8",
-   "bytes": 263450,
-   "caption": "Wide beach, Norderney, Germany",
-   "credit": "Dietmar Rabich",
+   "id": "e3e026683f",
+   "url": "https://moquette.github.io/backgrounds/images/e3e026683f.jpg",
+   "sha256": "4d069b1f42e94003bc8743017e3668abe4de99ca5d985890a83ae123e0e714da",
+   "bytes": 279846,
+   "caption": "Serendipity Beach, Cambodia",
+   "credit": "Marcin Konsek",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Norderney,_Nordsee_am_Oststrand_--_2016_--_5167_(bw)_-_2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_Sihanoukville,_Pla%C5%BCa_Serendipity_(04).jpg",
    "added": "2026-10-27-1431"
   },
   {
@@ -465,6 +454,28 @@
    "added": "2026-10-27-1431"
   },
   {
+   "id": "ffbfb54251",
+   "url": "https://moquette.github.io/backgrounds/images/ffbfb54251.jpg",
+   "sha256": "54880496a59aca4172f4d7cdb16dac181ba96be0a1f5b101003f69c4358c67f5",
+   "bytes": 292677,
+   "caption": "Miami Beach lifeguard, USA",
+   "credit": "Radomianin",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg",
+   "added": "2026-10-27-1431"
+  },
+  {
+   "id": "1431f86f19",
+   "url": "https://moquette.github.io/backgrounds/images/1431f86f19.jpg",
+   "sha256": "4a0e74580e3790df5b6d10e291ad7c6ac70d5f3d46837e6bac0995af1977188e",
+   "bytes": 258555,
+   "caption": "Sea rock formations, Portugal",
+   "credit": "Dietmar Rabich",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ribeira_da_Janela_(Madeira,_Portugal),_Ilheuzinho_und_Ilheus_da_Rib_--_2025_--_1579.jpg",
+   "added": "2026-10-27-1431"
+  },
+  {
    "id": "3de33f064b",
    "url": "https://moquette.github.io/backgrounds/images/3de33f064b.jpg",
    "sha256": "1c3c003e82ba6a20fbc2d5afb4666b7f1a73ffe23df803c57809658980f026d1",
@@ -476,25 +487,14 @@
    "added": "2026-10-27-1431"
   },
   {
-   "id": "5c8ab0769f",
-   "url": "https://moquette.github.io/backgrounds/images/5c8ab0769f.jpg",
-   "sha256": "2b2b9a67bc2340986af6e972d53426bc734f9611b102a0cdc6297cd7c61fa8a9",
-   "bytes": 293811,
-   "caption": "Old fort walls, Puerto Rico",
-   "credit": "Godot13",
+   "id": "dafc413a8a",
+   "url": "https://moquette.github.io/backgrounds/images/dafc413a8a.jpg",
+   "sha256": "033f66c0c623f8493ac9fe61bc76b3906fd5e76715aed5da0a8766e6758abd01",
+   "bytes": 301209,
+   "caption": "Town plaza, Aruba",
+   "credit": "Martin Falbisoner",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_10.jpg",
-   "added": "2026-10-27-1431"
-  },
-  {
-   "id": "5ce1f6ea4b",
-   "url": "https://moquette.github.io/backgrounds/images/5ce1f6ea4b.jpg",
-   "sha256": "8a112715208b07cecc5cfe091d25fed05e63418b131fbdf25390ffde9e5320c2",
-   "bytes": 293462,
-   "caption": "Caribbean coast, Cuba",
-   "credit": "Óðinn",
-   "licence": "CC BY-SA 2.5 ca",
-   "source": "https://commons.wikimedia.org/wiki/File:Costa_del_mar_Caribe_en_Pil%C3%B3n.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaza_Daniel_Leo,_Oranjestad,_Aruba_-_February_2020.jpg",
    "added": "2026-10-27-1431"
   },
   {
@@ -506,6 +506,17 @@
    "credit": "Martin Falbisoner",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Queen_Emma_Bridge_and_Handelskade,_Willemstad,_Cura%C3%A7ao_-_February_2020_-_01.jpg",
+   "added": "2026-10-27-1431"
+  },
+  {
+   "id": "a99899dbc8",
+   "url": "https://moquette.github.io/backgrounds/images/a99899dbc8.jpg",
+   "sha256": "145d63d919a74952ef3e46beff8fe6a6d808bd210c3fbf48ccbf4c2b29c2b4b2",
+   "bytes": 300016,
+   "caption": "Church by the sea, Barbados",
+   "credit": "Lewis Hulbert",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Lawrence_Church,_St._Lawrence_Gap,_Christ_Church,_Barbados_2.jpg",
    "added": "2026-10-27-1431"
   },
   {
@@ -531,27 +542,59 @@
    "added": "2026-10-27-1431"
   },
   {
-   "id": "a68c4d9711",
-   "url": "https://moquette.github.io/backgrounds/images/a68c4d9711.jpg",
-   "sha256": "842e478686faf2f341d0e4afe6c28ac64b192db8733a4feb06f00fde7c239e11",
-   "bytes": 292728,
-   "caption": "Old town skyline, Germany",
-   "credit": "Thomas Wolf, www.foto-tw.de",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
+   "id": "c37085cfc1",
+   "url": "https://moquette.github.io/backgrounds/images/c37085cfc1.jpg",
+   "sha256": "d9330bf0c275244cc135bd176afcf5d7acea0ed0efb6d9c84c74396b951e75f0",
+   "bytes": 301853,
+   "caption": "Skyline, Los Angeles, USA",
+   "credit": "Dietmar Rabich",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Bunker_Hill,_South_Grand_Avenue_--_2012_--_5263-5.jpg",
+   "added": "2026-10-27-1431"
+  },
+  {
+   "id": "821c2d9755",
+   "url": "https://moquette.github.io/backgrounds/images/821c2d9755.jpg",
+   "sha256": "c5f5f4736d6262c2c71e4693cb80a0d5cf8247c0f6fadc6ca475c5904d995b3d",
+   "bytes": 285313,
+   "caption": "Canary Wharf towers, UK",
+   "credit": "King of Hearts",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_from_Limehouse_London_June_2016_HDR.jpg",
    "added": "2026-10-27-1430"
   },
   {
-   "id": "own-a7465c9381",
-   "url": "https://moquette.github.io/backgrounds/images/own-a7465c9381.jpg",
-   "sha256": "a7465c9381625adb8ff8e241b80342e4943102db987b41ff61c0e321a280e50b",
-   "bytes": 300154,
-   "caption": "Wooden house, Dominican Republic",
-   "credit": "Kevin Olson / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/gw5OPsB1QEo",
-   "added": "2026-10-27-0927",
-   "description": "A weathered green wooden house on a dirt lane."
+   "id": "fba61954a5",
+   "url": "https://moquette.github.io/backgrounds/images/fba61954a5.jpg",
+   "sha256": "ce1aec438da896b7fa3b87ac5d4a98e945048122a838048d946f13196b9ea603",
+   "bytes": 304379,
+   "caption": "Mountain village valley, Spain",
+   "credit": "Trougnouf (Benoit Brummer)",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Capileira_seen_from_the_Sulayr_Trail_(DSCF5861).jpg",
+   "added": "2026-10-27-1430"
+  },
+  {
+   "id": "500abd96f9",
+   "url": "https://moquette.github.io/backgrounds/images/500abd96f9.jpg",
+   "sha256": "97d8eee5fe532a2c45e46182c56b186f4b64c8bc7a1c099f2521ce2525d696b9",
+   "bytes": 306559,
+   "caption": "Hillside old town, Albania",
+   "credit": "Steffen Schmitz (more photos)",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Himara,_Dh%C3%ABrmi,_2024-10_CN-03.jpg",
+   "added": "2026-10-27-1430"
+  },
+  {
+   "id": "f649a96480",
+   "url": "https://moquette.github.io/backgrounds/images/f649a96480.jpg",
+   "sha256": "fd42df9ea78e41aca168de638e2d9cb7e8ad14a3962bd5103dc661a39022f87f",
+   "bytes": 295681,
+   "caption": "Riverside towers reflected, USA",
+   "credit": "King of Hearts",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Charles_River_Esplanade_Boston_May_2018_panorama.jpg",
+   "added": "2026-10-27-1430"
   },
   {
    "id": "own-3197be59e9",
@@ -590,64 +633,52 @@
    "description": "The Oriental Pearl Tower and the Pudong skyline reflected in the Huangpu under an evening sky."
   },
   {
-   "id": "own-995ded3cc7",
-   "url": "https://moquette.github.io/backgrounds/images/own-995ded3cc7.jpg",
-   "sha256": "995ded3cc7fc70043252e191bf7c23781724722d93ec46dc9680afd0160c00a1",
-   "bytes": 300902,
-   "caption": "Plitvice Lakes, Croatia",
-   "credit": "Niklas Bischop / Unsplash",
+   "id": "own-7dad820174",
+   "url": "https://moquette.github.io/backgrounds/images/own-7dad820174.jpg",
+   "sha256": "7dad820174d40ff6be49af9e1801ab1b266ca9450ac1b74ee047f645d9a2f2e2",
+   "bytes": 285053,
+   "caption": "Palm shore, Dominican Republic",
+   "credit": "Damian Dominguez / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/ZH7ddK24w2k",
+   "source": "https://unsplash.com/photos/MKY8KAHQ-p0",
    "added": "2026-10-27-0927",
-   "description": "Waterfalls pouring into a green lake in Plitvice Lakes National Park."
+   "description": "Coconut palms leaning over a turquoise Caribbean shore."
   },
   {
-   "id": "own-d3628d7327",
-   "url": "https://moquette.github.io/backgrounds/images/own-d3628d7327.jpg",
-   "sha256": "d3628d73273f245e016651ee6183b6f08bdc26334a457d804f5eb0a310b88a35",
-   "bytes": 210386,
-   "caption": "Frosted glass blocks, abstract",
-   "credit": "Nat / Unsplash",
+   "id": "own-bbe0628fbc",
+   "url": "https://moquette.github.io/backgrounds/images/own-bbe0628fbc.jpg",
+   "sha256": "bbe0628fbc0e47dfb742b58f34ed2412d2df6e3d58083d3d1583503b48c01271",
+   "bytes": 278882,
+   "caption": "Night traffic, New York, USA",
+   "credit": "Ryan Loughlin / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/Qerg85B7JDI",
+   "source": "https://unsplash.com/photos/UBXdIv7GSJk",
    "added": "2026-10-27-0927",
-   "description": "A 3D render of frosted glass blocks."
+   "description": "Light trails of night traffic among Midtown Manhattan towers."
   },
   {
-   "id": "own-437d0ee19b",
-   "url": "https://moquette.github.io/backgrounds/images/own-437d0ee19b.jpg",
-   "sha256": "437d0ee19be4ced339437d6f3d060556269a1897647823208a566645a3708c35",
-   "bytes": 275035,
-   "caption": "Cubist still life, painting",
-   "credit": "Europeana / Unsplash",
+   "id": "own-c088f78f71",
+   "url": "https://moquette.github.io/backgrounds/images/own-c088f78f71.jpg",
+   "sha256": "c088f78f718be0bf4c3f6607a623f7dc03b3196811cec57f22dffb34a3e897d1",
+   "bytes": 221867,
+   "caption": "Metal cubes, abstract",
+   "credit": "Shubham Dhage / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/Zwmpl_LztfQ",
+   "source": "https://unsplash.com/photos/BdV0z8gTIg4",
    "added": "2026-10-27-0927",
-   "description": "A Cubist still life in red, green and yellow, from the Europeana collection."
+   "description": "A 3D render of glossy gold and steel cubes."
   },
   {
-   "id": "own-8387f8ddb2",
-   "url": "https://moquette.github.io/backgrounds/images/own-8387f8ddb2.jpg",
-   "sha256": "8387f8ddb2b1e72948660ab4f8210670715d196d03ecd7f04fedd6ec558dd517",
-   "bytes": 292630,
-   "caption": "Turquoise shop, Dominican Republic",
-   "credit": "Meg Von Haartman / Unsplash",
+   "id": "own-88e853bbae",
+   "url": "https://moquette.github.io/backgrounds/images/own-88e853bbae.jpg",
+   "sha256": "88e853bbae8b512a78266f585de1b30311708af01670b31dd5001b8c8490e13d",
+   "bytes": 285309,
+   "caption": "Harbour at dusk, Hong Kong",
+   "credit": "Simon Zhu / Unsplash",
    "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/zAdJZZgNogo",
-   "added": "2026-10-27-0924",
-   "description": "A turquoise souvenir shop hung with hats and bags on a sunny street."
-  },
-  {
-   "id": "own-b68b2c0c25",
-   "url": "https://moquette.github.io/backgrounds/images/own-b68b2c0c25.jpg",
-   "sha256": "b68b2c0c25df1ca2abddcdcc055a63730cea9fb9a0eb76039498a13cbfe7d6c2",
-   "bytes": 300745,
-   "caption": "Palm beach, Dominican Republic",
-   "credit": "Meg Von Haartman / Unsplash",
-   "licence": "Unsplash License",
-   "source": "https://unsplash.com/photos/MieYIaGqeMg",
-   "added": "2026-10-27-0924",
-   "description": "A young palm on a sandy beach by a calm turquoise sea."
+   "source": "https://unsplash.com/photos/4hluhoRJokI",
+   "added": "2026-10-27-0927",
+   "description": "Hong Kong's skyline and Victoria Harbour from the Peak at dusk."
   },
   {
    "id": "own-07c1b9b5e7",
@@ -674,6 +705,17 @@
    "description": "The Brooklyn Bridge and Lower Manhattan in black and white, from the Brooklyn shore."
   },
   {
+   "id": "5eb620fc70",
+   "url": "https://moquette.github.io/backgrounds/images/5eb620fc70.jpg",
+   "sha256": "c494313f15f523827d131a3c182996b4e62992f47c31d38cb96bb6ec88e593fe",
+   "bytes": 301098,
+   "caption": "Evening canal scene, Austria",
+   "credit": "Moahim",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2019_-_Urania_am_Abend_am_Donaukanal.jpg",
+   "added": "2026-10-27-0834"
+  },
+  {
    "id": "4647205d64",
    "url": "https://moquette.github.io/backgrounds/images/4647205d64.jpg",
    "sha256": "4e54f68c20a2c5f27740c7e74d0310b352d15af5ae5876e9f00409165cf3d780",
@@ -682,28 +724,6 @@
    "credit": "Altushkin",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B9.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "0ec52aa797",
-   "url": "https://moquette.github.io/backgrounds/images/0ec52aa797.jpg",
-   "sha256": "4dc9e9abe6678ea0ee0ec04ea75bae02ba4483060d323676c376354c529835de",
-   "bytes": 297702,
-   "caption": "Old town square, Azerbaijan",
-   "credit": "Diego Delso",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico,_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_221-223_HDR.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "54b1549b84",
-   "url": "https://moquette.github.io/backgrounds/images/54b1549b84.jpg",
-   "sha256": "a5edf520c9b2b2d18d93b4e92bc9aca74c9a77f7c1ef8b06faad77fa440c6a23",
-   "bytes": 300553,
-   "caption": "Lakeside neon dusk, Denmark",
-   "credit": "Kristoffer Trolle from Copenhagen, Denmark",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Cityscape_and_skyline_by_the_Copenhagen_Lakes,_Denmark_-_(36018109956).jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -718,47 +738,14 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "bfb62691d2",
-   "url": "https://moquette.github.io/backgrounds/images/bfb62691d2.jpg",
-   "sha256": "89fbffa2c2af9aa9094e77a484c25f39032e03ac7e945fe4e03b8624126391d2",
-   "bytes": 287684,
-   "caption": "Evening historic street, Denmark",
-   "credit": "Moahim",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:2018_-_Magstr%C3%A6de_street_in_evening.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "40e16083a1",
-   "url": "https://moquette.github.io/backgrounds/images/40e16083a1.jpg",
-   "sha256": "a421f5c1dc0b9a303a8c0f932b917a0541631ed5abd85b4e031e891972a30970",
-   "bytes": 294083,
-   "caption": "Pond reflection, Gyeongju, Korea",
+   "id": "f2e57eb53c",
+   "url": "https://moquette.github.io/backgrounds/images/f2e57eb53c.jpg",
+   "sha256": "2cfd9cdcf8187243bd0106cde6c08ee2cdc3532787a946ca7e9fded5bb3b2de7",
+   "bytes": 286864,
+   "caption": "Mekong waterfall, Laos",
    "credit": "Basile Morin",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Banya_yeonji_pond_water_reflection_of_bridge_and_trees_under_blue_sky_at_Bulguksa_Gyeongju_South_Korea.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "6d342e9c0f",
-   "url": "https://moquette.github.io/backgrounds/images/6d342e9c0f.jpg",
-   "sha256": "b3cdc95c0604c94ba4fbf6c633081bed0923047fb0003e762511b2e388faac0e",
-   "bytes": 298437,
-   "caption": "Kimono Forest, Kyoto, Japan",
-   "credit": "Yasumichi Morita (designer) Basile Morin (photographer)",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kimono_Forest_at_night,_Arashiyama_Station,_Arashiyama,_Kyoto,_Japan.jpg",
-   "added": "2026-10-27-0834"
-  },
-  {
-   "id": "5e445a6752",
-   "url": "https://moquette.github.io/backgrounds/images/5e445a6752.jpg",
-   "sha256": "ac4be03ce53ceb8bcb6f5fd790c060044d53e887211e67d1f7b5337fa0017d35",
-   "bytes": 297384,
-   "caption": "Kuang Si Falls, Laos",
-   "credit": "Basile Morin",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_with_submerged_tree_in_turquoise_water_near_Luang_Prabang_Laos.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Khone_Phapheng_Falls,_Si_Phan_Don,_Laos,_widest_waterfall_in_the_world.jpg",
    "added": "2026-10-27-0834"
   },
   {
@@ -773,25 +760,25 @@
    "added": "2026-10-27-0834"
   },
   {
-   "id": "465b00030c",
-   "url": "https://moquette.github.io/backgrounds/images/465b00030c.jpg",
-   "sha256": "26b82ae0a5fd7ab2aa50d1647047c712616219a1f3f207aac7935ec503833e0c",
-   "bytes": 275426,
-   "caption": "Dawn square, Venice, Italy",
-   "credit": "Benh LIEU SONG",
+   "id": "e9e18e2c46",
+   "url": "https://moquette.github.io/backgrounds/images/e9e18e2c46.jpg",
+   "sha256": "c8b53ab0fa7a5b576717e8ed104986eb29e7d27bcf179e9e9757fde53b155b77",
+   "bytes": 282040,
+   "caption": "Umbrella pines landscape, Italy",
+   "credit": "Hendrik Voogd",
    "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg",
-   "added": "2026-10-27-0648"
+   "source": "https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg",
+   "added": "2026-10-27-0650"
   },
   {
-   "id": "52a9636c84",
-   "url": "https://moquette.github.io/backgrounds/images/52a9636c84.jpg",
-   "sha256": "85bf10555befa0cdf154071dc32e35cb506648f99920502b62f1411ea5df53a0",
-   "bytes": 280536,
-   "caption": "Frozen Hudson, New York",
-   "credit": "King of Hearts",
+   "id": "73aa65890b",
+   "url": "https://moquette.github.io/backgrounds/images/73aa65890b.jpg",
+   "sha256": "f3b8d3c504b44495ea6e3b77c96f81622e6959d759789b9dc22b46d39b801e82",
+   "bytes": 261743,
+   "caption": "Malecon avenue, Cuba",
+   "credit": "Ezarate This is a retouched picture, which means that it has been digitally altered from its original version. Modificat",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Battery_Park_City_New_York_January_2018_002.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:AvMalecon-LaHabanaCuba-04735.jpg",
    "added": "2026-10-27-0647"
   },
   {
@@ -803,6 +790,17 @@
    "credit": "Kreuzschnabel",
    "licence": "CC BY-SA 3.0",
    "source": "https://commons.wikimedia.org/wiki/File:2014_Scar_House_Reservoir_Dam.jpg",
+   "added": "2026-10-27-0645"
+  },
+  {
+   "id": "0ffc396e0f",
+   "url": "https://moquette.github.io/backgrounds/images/0ffc396e0f.jpg",
+   "sha256": "0aef8d210975df6d3f9b332e9e255d39bf5424c13590234de6fdc7e732a78510",
+   "bytes": 291765,
+   "caption": "Plaza fountain, USA",
+   "credit": "Dietmar Rabich",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4847.jpg",
    "added": "2026-10-27-0645"
   }
  ],
